@@ -1,0 +1,1455 @@
+law_id: 1315, title: THE [***] WILLS AND INTESTACY REGULATION, 1799.
+law_id: 1316, title: THE [***] CHARITABLE ENDOWMENTS PUBLIC BUILDINGS AND ESCHEATS REGULATION, 1810.
+law_id: 1317, title: THE [***] STATE PRISONERS REGULATION, 1818.
+law_id: 1318, title: THE [***] GOVERNMENT INDEMNITY REGULATION, 1822.
+law_id: 1319, title: THE [***] ALLUVION AND DILUVION REGULATION, 1825.
+law_id: 1320, title: THE [***] REVENUE COMMISSIONERS REGULATION, 1829.
+law_id: 1321, title: THE [***] SATI REGULATION, 1829.
+law_id: 1322, title: THE [***] LAND-REVENUE (SETTLEMENT AND DEPUTY COLLECTORS) REGULATION, 1833.
+law_id: 1, title: The Districts Act, 1836.
+law_id: 2, title: The Public Accountant's Default Act, 1850.
+law_id: 3, title: The Judicial Officer's Protection Act, 1850.
+law_id: 4, title: The Public Servants (Inquiries) Act, 1850.
+law_id: 5, title: The Tolls Act, 1851.
+law_id: 7, title: The Fatal Accidents Act, 1855.
+law_id: 6, title: The Legal Representative Suits Act, 1855.
+law_id: 8, title: The Bills of Lading Act, 1856.
+law_id: 9, title: The Hindu Widow's Re-marriage Act, 1856.
+law_id: 10, title: The Societies Registration Act, 1860.
+law_id: 11, title: The Penal Code, 1860.
+law_id: 12, title: The Police Act, 1861.
+law_id: 13, title: The Stage-Carriages Act, 1861.
+law_id: 14, title: The Canals Act, 1864.
+law_id: 15, title: The Carriers Act, 1865.
+law_id: 17, title: The Acting Judges Act, 1867.
+law_id: 18, title: The Sarais Act, 1867.
+law_id: 16, title: The Public Gambling Act, 1867.
+law_id: 19, title: The Alluvion (Amendment) Act, 1868.
+law_id: 20, title: The Divorce Act, 1869.
+law_id: 21, title: The Court-fees Act, 1870.
+law_id: 22, title: The Cattle-trespass Act, 1871.
+law_id: 23, title: The Pensions Act, 1871.
+law_id: 24, title: The Evidence Act, 1872.
+law_id: 26, title: The Contract Act, 1872.
+law_id: 27, title: The Christian Marriage Act, 1872.
+law_id: 25, title: The Special Marriage Act, 1872.
+law_id: 28, title: The Government Savings Banks Act, 1873.
+law_id: 29, title: The Oaths Act, 1873.
+law_id: 31, title: The Foreign Recruiting Act, 1874.
+law_id: 30, title: The Married Women's Property Act, 1874.
+law_id: 33, title: The Majority Act, 1875.
+law_id: 32, title: The Survey Act, 1875.
+law_id: 34, title: The Law Reports Act, 1875.
+law_id: 35, title: The Irrigation Act, 1876.
+law_id: 36, title: The Specific Relief Act, 1877.
+law_id: 37, title: The Treasure-Trove Act, 1878.
+law_id: 38, title: The Arms Act, 1878.
+law_id: 39, title: The Court of Wards Act, 1879.
+law_id: 40, title: The Touts Act, 1879.
+law_id: 41, title: The Religious Societies Act, 1880.
+law_id: 42, title: The Vaccination Act, 1880.
+law_id: 43, title: The Kazis Act, 1880.
+law_id: 44, title: The Municipal Taxation Act, 1881.
+law_id: 45, title: The Obstructions in Fairways Act, 1881.
+law_id: 1324, title: THE CHITTAGONG HILL-TRACTS FRONTIER POLICE REGULATION, 1881.
+law_id: 46, title: The Negotiable Instruments Act, 1881.
+law_id: 47, title: The Trusts Act, 1882.
+law_id: 49, title: The Easements Act, 1882.
+law_id: 48, title: The Transfer of Property Act, 1882.
+law_id: 50, title: The Powers-of-Attorney Act, 1882.
+law_id: 51, title: The Land Improvement Loans Act, 1883.
+law_id: 52, title: The Explosives Act, 1884.
+law_id: 53, title: The Agriculturists' Loans Act, 1884.
+law_id: 54, title: The Ferries Act, 1885.
+law_id: 55, title: The Telegraph Act, 1885.
+law_id: 56, title: The Births, Deaths and Marriages Registration Act, 1886.
+law_id: 57, title: The Suits Valuation Act, 1887.
+law_id: 58, title: The Small Cause Courts Act, 1887.
+law_id: 59, title: The Civil Courts Act, 1887.
+law_id: 60, title: The Metal Tokens Act, 1889.
+law_id: 62, title: The Merchandise Marks Act, 1889.
+law_id: 61, title: The Private Fisheries Protection Act, 1889.
+law_id: 63, title: The Charitable Endowments Act, 1890.
+law_id: 64, title: The Guardians and Wards Act, 1890.
+law_id: 65, title: The Railways Act, 1890.
+law_id: 66, title: The Excise (Malt Liquors) Act, 1890.
+law_id: 67, title: The Bankers' Book Evidence Act, 1891.
+law_id: 68, title: The Partition Act, 1893.
+law_id: 69, title: The Prisons Act, 1894.
+law_id: 70, title: The Government Grants Act, 1895.
+law_id: 71, title: The Protection of Muslim Pilgrims Act, 1896.
+law_id: 72, title: The Epidemic Diseases Act, 1897.
+law_id: 73, title: The General Clauses Act, 1897.
+law_id: 74, title: The Lepers Act, 1898.
+law_id: 75, title: The Code of Criminal Procedure, 1898.
+law_id: 76, title: The Post Office Act, 1898.
+law_id: 77, title: The Stamp Act, 1899.
+law_id: 78, title: The Government Buildings Act, 1899.
+law_id: 79, title: The Church of Scotland Kirk Sessions Act, 1899.
+law_id: 1313, title: The Chittagong Hill-tracts Regulation, 1900.
+law_id: 80, title: The Prisoners Act, 1900.
+law_id: 81, title: The Tolls (Army and Air-Force)Act, 1901.
+law_id: 82, title: The Works of Defence Act, 1903.
+law_id: 83, title: The Foreign Marriage Act, 1903.
+law_id: 84, title: The Public Parks Act, 1904.
+law_id: 85, title: The Smoke-Nuisances Act, 1905.
+law_id: 86, title: The Code of Civil Procedure, 1908.
+law_id: 87, title: The Explosive Substances Act, 1908.
+law_id: 88, title: The Limitation Act, 1908.
+law_id: 89, title: The Ports Act, 1908.
+law_id: 90, title: The Registration Act, 1908.
+law_id: 91, title: The Whipping Act, 1909.
+law_id: 92, title: The Anand Marriage Act, 1909.
+law_id: 93, title: The Electricity Act, 1910.
+law_id: 94, title: The Patents And Designs Act, 1911.
+law_id: 95, title: The Mining Settlements Act, 1912.
+law_id: 99, title: The Administrator General's Act, 1913.
+law_id: 97, title: The Official Trustees Act, 1913.
+law_id: 101, title: The Mussalman Wakf Validating Act, 1913.
+law_id: 100, title: The White Phosphorus Matches Prohibition Act, 1913.
+law_id: 98, title: The Public Demands Recovery Act, 1913 (Bengal Act).
+law_id: 102, title: The Destructive Insects and Pests Act, 1914.
+law_id: 103, title: The Local Authorities Loans Act, 1914.
+law_id: 104, title: The Medical Degrees Act, 1916.
+law_id: 105, title: The Hindu Disposition of Property Act, 1916.
+law_id: 106, title: The Destruction of Records Act, 1917.
+law_id: 107, title: The Post Office Cash Certificates Act, 1917.
+law_id: 108, title: The Cinematograph Act, 1918.
+law_id: 109, title: The Usurious Loans Act, 1918.
+law_id: 110, title: The Companies (Foreign Interests) Act, 1918.
+law_id: 111, title: The Cotton Cloth Act, 1918.
+law_id: 113, title: The Juvenile Smoking Act, 1919.
+law_id: 112, title: The Local Authorities Pensions and Gratuities Act, 1919.
+law_id: 114, title: The Poisons Act, 1919.
+law_id: 115, title: The Cruelty to Animals Act, 1920.
+law_id: 118, title: The Securities Act, 1920.
+law_id: 119, title: The Charitable and Religious Trusts Act, 1920.
+law_id: 120, title: The Identification of Prisoners Act, 1920.
+law_id: 121, title: The Passport Act, 1920.
+law_id: 117, title: The Agricultural and Sanitary Improvement Act, 1920.
+law_id: 116, title: The Alluvial Lands Act, 1920.
+law_id: 122, title: The Maintenance Orders Enforcement Act, 1921.
+law_id: 123, title: The Amusements Tax Act, 1922.
+law_id: 124, title: The Police (Incitement to Disaffection) Act, 1922.
+law_id: 127, title: The Boilers Act, 1923.
+law_id: 125, title: The Cotton Transport Act, 1923.
+law_id: 126, title: The Mines Act, 1923.
+law_id: 128, title: The Cantonments (House Accommodation) Act, 1923.
+law_id: 129, title: The Naval Armament Act, 1923.
+law_id: 131, title: The Cotton Cess Act, 1923.
+law_id: 132, title: The Official Secrets Act, 1923.
+law_id: 130, title: The Aerial Ropeways Act, 1923.
+law_id: 133, title: The Cantonments Act, 1924.
+law_id: 135, title: The Soldiers (Litigation) Act, 1925.
+law_id: 136, title: The Provident Funds Act, 1925.
+law_id: 137, title: The Carriage of Goods by Sea Act, 1925.
+law_id: 134, title: The Highways Act, 1925.
+law_id: 138, title: The Succession Act, 1925.
+law_id: 139, title: The Naturalization Act, 1926.
+law_id: 140, title: The Contempt of Courts Act, 1926.
+law_id: 141, title: The Cotton Industry (Statistics) Act, 1926.
+law_id: 142, title: The Legal Practitioners (Fees) Act, 1926.
+law_id: 144, title: The Forest Act, 1927.
+law_id: 145, title: The Lighthouse Act, 1927.
+law_id: 143, title: The Vehicles Act, 1927.
+law_id: 146, title: The Borstal Schools Act, 1928.
+law_id: 147, title: The Hindu Inheritance (Removal of Disabilities) Act, 1928.
+law_id: 148, title: The Hindu Law of Inheritance (Amendment) Act, 1929.
+law_id: 149, title: The Child Marriage Restraint Act, 1929.
+law_id: 150, title: The Sale of Goods Act, 1930.
+law_id: 152, title: The Hindu Gains of Learning Act, 1930.
+law_id: 151, title: The Lac Cess Act, 1930.
+law_id: 153, title: The Mussalman Wakf Validating Act, 1930.
+law_id: 155, title: The Provisional Collection of Taxes Act, 1931.
+law_id: 154, title: The State Aid to Industries Act, 1931.
+law_id: 156, title: The Motor Vehicles Tax Act, 1932.
+law_id: 158, title: The Foreign Relations Act, 1932.
+law_id: 157, title: The Partnership Act, 1932.
+law_id: 159, title: The Suppression of Immoral Traffic Act, 1933.
+law_id: 162, title: The Wireless Telegraphy Act, 1933.
+law_id: 160, title: The Money-Lenders Act, 1933.
+law_id: 161, title: The Places of Public Amusement Act, 1933.
+law_id: 163, title: The Smuggling of Arms Act, 1934.
+law_id: 164, title: The Sugar-Cane Act, 1934.
+law_id: 165, title: The Carriage By Air Act, 1934.
+law_id: 166, title: The Petroleum Act, 1934.
+law_id: 167, title: The Development Act, 1935.
+law_id: 169, title: The Agricultural Debtors Act, 1935.
+law_id: 168, title: The Parsi Marriage and Divorce Act, 1936.
+law_id: 1442, title: The Geneva Convention Implementing Act, 1936.
+law_id: 170, title: The Agricultural Produce (Grading and Marking) Act, 1937.
+law_id: 172, title: The Arya Marriage Validation Act, 1937.
+law_id: 171, title: The Hindu Women's Rights to Property Act, 1937.
+law_id: 173, title: The Muslim Personal Law (Shariat) Application Act, 1937.
+law_id: 175, title: The Insurance Act, 1938.
+law_id: 176, title: The Manoeuvres, Field Firing and Artillery Practice Act, 1938.
+law_id: 178, title: The Cutchi Memons Act, 1938.
+law_id: 174, title: The Famine Insurance Fund Act, 1937 (Bengal Act).
+law_id: 179, title: The Criminal Law Amendment Act, 1938.
+law_id: 177, title: The Official Receiver's Act, 1938 (Bengal Act).
+law_id: 180, title: The Dissolution of Muslim Marriages Act, 1939.
+law_id: 182, title: The Registration of Foreigners Act, 1939.
+law_id: 183, title: The Commercial Documents Evidence Act, 1939.
+law_id: 181, title: The Tanks Improvement Act, 1939 (Bengal Act)..
+law_id: 1325, title: THE CHITTAGONG HILL-TRACTS LAWS REGULATION, 1939.
+law_id: 184, title: The Trade Marks Act, 1940.
+law_id: 187, title: The Excess Profits Tax Act, 1940.
+law_id: 188, title: The Drugs Act, 1940.
+law_id: 189, title: The Agricultural Produce Cess Act, 1940.
+law_id: 185, title: The Jute Regulation Act, 1940 (Bengal Act).
+law_id: 186, title: The Money-Lenders Act, 1940 (Bengal Act).
+law_id: 192, title: The War Injuries Ordinance, 1941.
+law_id: 191, title: The Railways (Local Authorities' Taxation) Act, 1941.
+law_id: 190, title: The Raw Jute Taxation Act, 1941 (Bengal Act).
+law_id: 1326, title: THE CHITTAGONG HILL-TRACTS LAWS REGULATION, 1942.
+law_id: 194, title: The Industrial Statistics Act, 1942.
+law_id: 195, title: The Collective Fines Ordinance, 1942.
+law_id: 1328, title: THE CHITTAGONG HILL-TRACTS LAWS (No. III) REGULATION, 1942.
+law_id: 1329, title: THE CHITTAGONG HILL-TRACTS LAWS (No. IV) REGULATION, 1942.
+law_id: 1330, title: THE CHITTAGONG HILL-TRACTS LAWS (No. V) REGULATION, 1942.
+law_id: 193, title: The Criminal Law (Industrial Areas) Amendment Act, 1942 (Bengal Act).
+law_id: 196, title: The Armed Forces (Special Powers) Ordinance, 1942.
+law_id: 1332, title: THE MYMENSINGH PARTIALLY EXCLUDED AREAS TENANCY REGULATION, 1942..
+law_id: 197, title: The Income-tax and Excess Profits Tax (Emergency) Ordinance, 1942.
+law_id: 198, title: The Armed Forces (Special Powers) Extension Ordinance, 1942.
+law_id: 203, title: The Enemy Agents Ordinance, 1943.
+law_id: 204, title: The Standard Time (Interpretation of References) Ordinance, 1943.
+law_id: 1334, title: THE CHITTAGONG HILL-TRACT LAWS REGULATIONS, 1943.
+law_id: 200, title: The Reciprocity Act, 1943.
+law_id: 202, title: The War Injuries (Compensation Insurance) Act, 1943.
+law_id: 1344, title: THE EXCLUDED AND PARTIALLY EXCLUDED AREAS LAWS REGULATION, 1950.
+law_id: 205, title: The Military Stores (Unlawful Possession) Ordinance, 1943.
+law_id: 199, title: The Vagrancy Act, 1943 (Bengal Act).
+law_id: 201, title: The Hindu Women's Rights to Property (Extension to Agricultural Land) Act, 1943 (Assam Act).
+law_id: 1335, title: THE CHITTAGONG HILL-TRACTS LAWS (No. III) REGULATION, 1943.
+law_id: 1336, title: THE CHITTAGONG HILL-TRACTS LAWS (No. IV) REGULATION, 1943.
+law_id: 206, title: The Excises and Salt Act, 1944.
+law_id: 208, title: The Coconut Committee Act, 1944.
+law_id: 210, title: The Public Health (Emergency Provisions) Ordinance, 1944.
+law_id: 207, title: The Orphanages and Widows' Homes Act, 1944 (Bengal Act).
+law_id: 1491, title: The Excises and Salt Act and the Finance Act (Chittagong Hill-tracts) Regulation, 1944.
+law_id: 211, title: The Criminal Law Amendment Ordinance, 1944.
+law_id: 1337, title: THE CHITTAGONG HILL-TRACTS LAWS (No. II) REGULATION, 1944.
+law_id: 212, title: The Post Office National Savings Certificates Ordinance, 1944.
+law_id: 209, title: The Public Debt Act, 1944.
+law_id: 1338, title: THE CHITTAGONG HILL-TRACTS LAWS REGULATION, 1946.
+law_id: 213, title: The Oilseeds Committee Act, 1946.
+law_id: 214, title: The Hindu Married Women's Right to Separate Residence and Maintenance Act, 1946.
+law_id: 215, title: The Hindu Marriage Disabilities Removal Act, 1946.
+law_id: 216, title: The Foreigners Act, 1946.
+law_id: 218, title: The Foreign Exchange Regulation Act, 1947.
+law_id: 217, title: The Prevention of Corruption Act, 1947.
+law_id: 219, title: The Armed Forces (Emergency Duties) Act, 1947.
+law_id: 220, title: The Business Profits Tax Act, 1947.
+law_id: 221, title: The Taxation on Income (Investigation Commission) Act, 1947.
+law_id: 222, title: The Riot And Civil Commotion Risks Insurance Ordinance, 1947.
+law_id: 229, title: The Cantonments (Requisitioning of Immoveable Property) Ordinance, 1948.
+law_id: 230, title: The Essential Personnel (Registration) Ordinance, 1948.
+law_id: 223, title: The Armed Forces (Recruitment and Conditions of Service) Act, 1948.
+law_id: 226, title: The Protection of Ports (Special Measures) Act, 1948.
+law_id: 224, title: The United Nations (Security Council) Act, 1948.
+law_id: 227, title: The United Nations (Privileges and Immunities) Act, 1948.
+law_id: 225, title: The Criminal Law (Amendment) Act, 1948 (East Bengal Act).
+law_id: 228, title: The Diplomatic and Consular Officers (Oaths and Fees) Act, 1948.
+law_id: 232, title: The Non-Agricultural Tenancy Act, 1949 (East Bengal Act).
+law_id: 235, title: The Navy (Extension of Service) Act, 1950.
+law_id: 1343, title: THE PARTIALLY EXCLUDED AREAS LAWS REGULATION, 1950.
+law_id: 237, title: The Army and Air Force Reserves Act, 1950.
+law_id: 236, title: The Imports and Exports (Control) Act, 1950.
+law_id: 234, title: The Acquisition of Waste Land Act, 1950 (East Bengal Act).
+law_id: 231, title: The Development of Industries (Government Control) Act, 1949.
+law_id: 233, title: The Protection and Conservation of Fish Act, 1950 (East Bengal Act).
+law_id: 240, title: The National Guard Act, 1950.
+law_id: 239, title: The Protective Duties Act, 1950.
+law_id: 238, title: The Territorial Force Act, 1950.
+law_id: 1345, title: THE CHITTAGONG HILL-TRACTS SARAIS REGULATION, 1951.
+law_id: 242, title: The Citizenship Act, 1951.
+law_id: 241, title: The State Acquisition and Tenancy Act, 1950 (East Bengal Act).
+law_id: 246, title: The Civil Defence Act, 1952.
+law_id: 247, title: The Armed Forces Nursing Service Act, 1952.
+law_id: 248, title: The Army Act, 1952.
+law_id: 1342, title: THE CHITTAGONG-HILL TRACTS (LAWS) REGULATION, 1952.
+law_id: 243, title: The Prevention of Transfer of Property and Removal of Documents and Records Act, 1952 (East Bengal Act).
+law_id: 244, title: The Service Tenants (Protection) Act, 1952 (East Bengal Act).
+law_id: 245, title: The Undesirable Advertisements Control Act, 1952 (East Bengal Act).
+law_id: 249, title: The Air Force (Extension of Service) Act, 1952.
+law_id: 251, title: The Control of Entry Act, 1952.
+law_id: 250, title: The Essential Services (Maintenance) Act, 1952.
+law_id: 252, title: The Passport (Offences) Act, 1952.
+law_id: 253, title: The Embankment and Drainage Act, 1952 (East Bengal Act).
+law_id: 254, title: The Building Construction Act, 1952 (East Bengal Act).
+law_id: 256, title: The Air Force Act, 1953.
+law_id: 255, title: The Dangerous Cargoes Act, 1953.
+law_id: 258, title: The Taxation Tribunal (Undisclosed Wealth) Act, 1953.
+law_id: 257, title: The Town Improvement Act, 1953 (East Bengal Act).
+law_id: 1356, title: THE CHITTAGONG HILL-TRACTS (TARIFF AND CUSTOMS) REGULATION, 1952.
+law_id: 259, title: The Essential Articles (Price Control and Anti-Hoarding) Act, 1953 (East Bengal Act).
+law_id: 260, title: The Junior Cadet Corps Act, 1953.
+law_id: 1340, title: THE CHITTAGONG HILL-TRACTS (PREVENTION OF CORRUPTION) REGULATION, 1953.
+law_id: 261, title: The Control of Disorderly and Dangerous Persons (Goondas) Act, 1954 (East Bengal Act).
+law_id: 1357, title: THE CHITTAGONG HILL-TRACTS (LABOUR LAWS) REGULATION, 1954.
+law_id: 1358, title: THE CHITTAGONG HILL-TRACTS CINEMATOGRAPH REGULATION, 1954.
+law_id: 1359, title: THE CHITTAGONG HILL-TRACTS CRIMINAL LAW (INDUSTRIAL AREAS) REGULATION, 1955.
+law_id: 263, title: The Commissions of Inquiry Act, 1956.
+law_id: 264, title: The United Nations (Declaration of Death of Missing Persons) Act, 1956.
+law_id: 1360, title: THE CHITTAGONG HILL-TRACTS (INDUSTRIAL LAWS) REGULATION, 1956.
+law_id: 262, title: The Control of Essential Commodities Act, 1956 (East Pakistan Act).
+law_id: 265, title: The Food (Special Courts) Act, 1956 (East Pakistan Act).
+law_id: 266, title: The Law of Evidence Amendment Act, 1956 (East Pakistan Act).
+law_id: 267, title: The Essential Commodities Act, 1957.
+law_id: 268, title: The Animals Slaughter (Restriction) and Meat Control Act, 1957 (East Pakistan Act).
+law_id: 269, title: The Finance Act, 1957 (East Pakistan Act).
+law_id: 271, title: The Diplomatic Immunities (Commonwealth Countries Representatives) Act, 1957.
+law_id: 270, title: The Cotton Ginning and Pressing Act, 1957 (East Pakistan Act).
+law_id: 1361, title: THE CHITTAGONG HILL-TRACTS MOTOR VEHICLES REGULATION, 1957.
+law_id: 274, title: The Bangladesh Small and Cottage Industries Corporation Act, 1957.
+law_id: 273, title: The Film Development Corporation Act, 1957 (East Pakistan Act).
+law_id: 272, title: The Cotton Act, 1957.
+law_id: 1362, title: THE CHITTAGONG HILL TRACTS PETROLEUM REGULATION, 1957.
+law_id: 275, title: The State Acquisition (Ad-interim Payment) Act, 1957 (East Pakistan Act).
+law_id: 276, title: The State Acquisition (Bonds) Act, 1957 (East Pakistan Act).
+law_id: 279, title: The Essential Services (Second) Ordinance, 1958 (East Pakistan Ordinance).
+law_id: 280, title: The Undesirable Companies (Second) Ordinance, 1958 (East Pakistan Ordinance).
+law_id: 281, title: The Commissions of Inquiry (Second) Ordinance, 1958 (East Pakistan Ordinance No. LI of 1958)..
+law_id: 1363, title: THE CHITTAGONG HILL-TRACTS (LAND ACQUISITION) REGULATION, 1958.
+law_id: 1312, title: The Chittagong Hill-tracts (Land Acquisition) Regulation, 1958.
+law_id: 278, title: The Agricultural Census Act, 1958.
+law_id: 277, title: The Criminal Law Amendment Act, 1958.
+law_id: 282, title: The Inland Water Transport Authority Ordinance, 1958 (East Pakistan Ordinance).
+law_id: 283, title: The Finance (Third) Ordinance, 1958 (East Pakistan Ordinance).
+law_id: 284, title: The Sairat Mahals (Management) Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 285, title: The Cattle (Prevention of Trespass) Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 286, title: The Culturable Waste Land (Utilization) Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 287, title: The Hats and Bazars (Establishment and Acquisition) Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 288, title: The Government Fisheries (Protection) Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 289, title: The Private Forests Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 291, title: The Chittagong Development Authority Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 292, title: The Rent Receipt Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 290, title: The Claims for Maintenance (Recovery Abroad) Ordinance, 1959.
+law_id: 294, title: The Chittagong Muslim Institute Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 295, title: The Warehouses Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 296, title: The Forest Industries Development Corporation Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 297, title: The Pure Food Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 293, title: The Power Alcohol Ordinance, 1959.
+law_id: 298, title: The Dhanmandai Residential Zone (Termination of Lease) Ordinance, 1959 (East Pakistan Ordinance).
+law_id: 1364, title: THE CHITTAGONG HILL-TRACTS EMPLOYMENT (RECORD OF SERVICES) REGULATION, 1959.
+law_id: 300, title: The Tea (Control of Prices, Distribution and Movement) Ordinance, 1960.
+law_id: 301, title: The Civil Aviation Ordinance, 1960.
+law_id: 299, title: The Sugar (Road Development Cess) Ordinance, 1960 (East Pakistan Ordinance).
+law_id: 302, title: The Probation of Offenders Ordinance, 1960.
+law_id: 303, title: The Public Investments (Financial Safeguards) Ordinance, 1960.
+law_id: 1365, title: THE CHITTAGONG HILL-TRACTS AERIAL ROPEWAYS REGULATION, 1960.
+law_id: 304, title: The Eye Surgery (Restriction) Ordinance, 1960.
+law_id: 313, title: The Khulna Development Authority Ordinance, 1961 (East Pakistan Ordinance).
+law_id: 314, title: The Road Transport Corporation Ordinance, 1961 (East Pakistan Ordinance).
+law_id: 305, title: The Muslim Family Laws Ordinance, 1961.
+law_id: 306, title: The Chartered Accountants Ordinance, 1961.
+law_id: 307, title: The Medical Colleges (Governing Bodies) Ordinance, 1961.
+law_id: 315, title: The Land Dues (Rounding off to Decimal Coins) Ordinance, 1961 (East Pakistan Ordinance).
+law_id: 308, title: The Notaries Ordinance, 1961.
+law_id: 309, title: The Petroleum Products (Development Surcharge) Ordinance, 1961.
+law_id: 316, title: The Government Educational and Training Institutions Ordinance, 1961 (East Pakistan Ordinance).
+law_id: 317, title: The Agricultural University Ordinance, 1961 (East Pakistan Ordinance).
+law_id: 310, title: The Navy Ordinance, 1961.
+law_id: 319, title: The Engineering and Technological University Ordinance, 1961 (East Pakistan Ordinance).
+law_id: 318, title: The Intermediate and Secondary Education Ordinance, 1961 (East Pakistan Ordinance).
+law_id: 320, title: The Agricultural Development Corporation Ordinance, 1961 (East Pakistan Ordinance).
+law_id: 311, title: The Trade Organisations Ordinance, 1961.
+law_id: 312, title: The Voluntary Social Welfare Agencies (Registration and Control) Ordinance, 1961.
+law_id: 321, title: The Domestic Servants' Registration Ordinance, 1961 (East Pakistan Ordinance).
+law_id: 327, title: The Prevention of Interference with Aids to Navigation Ordinance, 1962 (East Pakistan Ordinance).
+law_id: 326, title: The Waqfs Ordinance, 1962 (East Pakistan Ordinance).
+law_id: 322, title: The Port Authorities Lands and Buildings (Recovery of Possession) Ordinance, 1962.
+law_id: 328, title: The Agricultural Pests Ordinance, 1962 (East Pakistan Ordinance).
+law_id: 329, title: The Society for the Prevention of Cruelty to Animals Ordinance, 1962 (East Pakistan Ordinance).
+law_id: 323, title: The Industrial Development Corporation Ordinance, 1962.
+law_id: 330, title: The Registration of Private Schools Ordinance, 1962 (East Pakistan Ordinance).
+law_id: 324, title: The Allopathic System (Prevention of Misuse) Ordinance, 1962.
+law_id: 325, title: The Jute Ordinance, 1962.
+law_id: 331, title: The Diplomatic Immunities (Conferences with Commonwealth Countries) Act, 1963.
+law_id: 332, title: The Cantonments Rent Restriction Act, 1963.
+law_id: 333, title: The Indecent Advertisements Prohibition Act, 1963.
+law_id: 335, title: The Services (Temporary Powers) Ordinance, 1963 (East Pakistan Ordinance).
+law_id: 334, title: The Censorship of Films Act, 1963.
+law_id: 336, title: The Chittagong Development Authority (Land Acquisition Validation) Ordinance, 1963 (East Pakistan Ordinance).
+law_id: 337, title: The Agricultural Produce Markets Regulation Act, 1964 (East Pakistan Act).
+law_id: 338, title: The Cadet College Ordinance, 1964 (East Pakistan Ordinance).
+law_id: 339, title: The Aircraft (Removal of Danger to Safety) Ordinance, 1965.
+law_id: 340, title: The Naval Academy (Award of Degrees) Ordinance, 1965.
+law_id: 341, title: The Reservists (Reinstatement in Civil Employment) Ordinance, 1965.
+law_id: 342, title: The Control of Employment Ordinance, 1965.
+law_id: 343, title: The Publication of Books (Regulation and Control) Ordinance, 1965 (East Pakistan Ordinance).
+law_id: 344, title: The Carriage by Air (International Convention) Act, 1966.
+law_id: 345, title: The Ex-Government Servants (Employment with Foreign Governments) (Prohibition) Act, 1966.
+law_id: 346, title: The Cantonments Pure Food Act, 1966.
+law_id: 349, title: The Technical Education Act, 1967 (East Pakistan Act).
+law_id: 347, title: The Import of Goods (Price Equalisation Surcharge) Act, 1967.
+law_id: 348, title: The Excise Duty on Minerals (Labour Welfare) Act, 1967.
+law_id: 350, title: The Finance Act, 1967 (East Pakistan Act).
+law_id: 351, title: The Conservator of Ports, Lands and Buildings (Recovery Of Possession) Act, 1967 (East Pakistan Act).
+law_id: 352, title: The Carriage by Air (Supplementary Convention) Act, 1968.
+law_id: 353, title: The Antiquities Act, 1968.
+law_id: 354, title: The Customs Act, 1969.
+law_id: 357, title: The Pilotage Ordinance, 1969 (East Pakistan Ordinance).
+law_id: 355, title: The Securities and Exchange Ordinance, 1969.
+law_id: 356, title: The Defence Services (Inquiry) (Special Provisions) Ordinance, 1969.
+law_id: 358, title: The Railway Servants Benevolent Fund Ordinance, 1969 (East Pakistan Ordinance).
+law_id: 359, title: The Railway Servants Group Insurance Ordinance, 1969 (East Pakistan Ordinance).
+law_id: 362, title: The Control of Essential Commodities (Extension to the Chittagong Hill-Tracts) Ordinance, 1970 (East Pakistan Ordinance).
+law_id: 360, title: The Monopolies and Restrictive Trade Practices (Control and Prevention) Ordinance, 1970.
+law_id: 363, title: The Government and Local Authority Lands and Buildings (Recovery of Possession) Ordinance, 1970 (East Pakistan Ordinance).
+law_id: 361, title: The National Service Ordinance, 1970.
+law_id: 364, title: The Pesticides Ordinance, 1971.
+law_id: 365, title: The Bangladesh (Collection of Taxes) Order, 1971 (Acting President's Order).
+law_id: 366, title: The Bangladesh (Administration of Banks) Order, 1971 (Acting President's Order).
+law_id: 368, title: The Bangladesh (Taking Over of Control and Management of Industrial and Commercial Concerns) Order, 1972 (Acting President's Order).
+law_id: 426, title: The Bangladesh (Adaptation of University Laws) Ordinance, 1972.
+law_id: 369, title: The Bangladesh (Administration of Financial Institutions) Order, 1972 (A.P.O.).
+law_id: 370, title: The Bangladesh Law Officers Order, 1972 (President's Order).
+law_id: 1310, title: Bangladesh Collaborators (Special Tribunals) Order, 1972.
+law_id: 371, title: The Bangladesh Shipping Corporation Order, 1972 (President's Order).
+law_id: 372, title: The Bangladesh (Legal Proceedings) Order, 1972 (President's Order).
+law_id: 373, title: The Bangladesh Abandoned Property (Control, Management and Disposal) Order, 1972 (President's Order).
+law_id: 374, title: The Bangladesh (Adaptation of Insurance Act) Order, 1972 (President's Order).
+law_id: 375, title: The Bangladesh Bank (Demonetisation of Currency Notes) Order, 1972 (President's Order).
+law_id: 376, title: The Bangladesh Constituent Assembly Members (Cessation of Membership) Order, 1972 (P.O.).
+law_id: 380, title: The Bangladesh (Vesting of Property and Assets) Order, 1972 (President's Order).
+law_id: 377, title: The Bangladesh Banks (Nationalisation) Order, 1972 (President's Order).
+law_id: 378, title: The Bangladesh Industrial Enterprises (Nationalisation) Order, 1972 (President's Order).
+law_id: 379, title: The Bangladesh Inland Water Transport Corporation Order, 1972 (President's Order).
+law_id: 381, title: The Bangladesh Insurance (Emergency Provisions) Order, 1972 (President's Order).
+law_id: 382, title: The Bangladesh (Resumption of Easement Lands) Order, 1972 (President's Order).
+law_id: 383, title: The Bangladesh (Adaptation of East Pakistan Intermediate and Secondary Education Ordinance) Order, 1972 (President's Order).
+law_id: 384, title: The Bangladesh Industrial Development Corporation Order, 1972 (President's Order).
+law_id: 386, title: The Bangladesh Names and Emblems (Prevention of Unauthorised Use) Order, 1972 (President's Order).
+law_id: 385, title: The East Pakistan Madrasah Education Ordinance (Repeal) Order, 1972 (President's Order).
+law_id: 387, title: The Bangladesh Legal Practitioner's and Bar Council Order, 1972 (President's Order).
+law_id: 388, title: The Bangladesh (Adaptation of Existing Laws) Order, 1972 (President's Order).
+law_id: 389, title: The Bangladesh Special (Remuneration and Privileges) Order, 1972 (President's Order).
+law_id: 390, title: The Finance (1971–1972) Order, 1972 (President's Order).
+law_id: 391, title: The Bangladesh Nationalised Enterprises and Statutory Corporation (Prohibition of Strikes and Unfair Labour Practices) Order, 1972 (President's Order).
+law_id: 392, title: The Bangladesh Power Development Boards Order, 1972 (President's Order).
+law_id: 393, title: The Bangladesh (Demonetisation of Bank Notes) Order, 1972 (President's Order).
+law_id: 396, title: The Bangladesh (Whips) Order, 1972 (President's Order).
+law_id: 395, title: The Bangladesh College of Physicians and Surgeons Order, 1972 (President's Order).
+law_id: 394, title: The Bangladesh Taxation Laws (Adaptation) Order, 1972 (President's Order).
+law_id: 397, title: The Trading Corporation of Bangladesh Order, 1972 (President's Order).
+law_id: 398, title: The Bangladesh (Legal Proceedings) (Second) Order, 1972 (President's Order).
+law_id: 399, title: The Census Order, 1972 (President's Order).
+law_id: 400, title: The Government Educational and Training Institutions (Adaptation) Order, 1972 (President's Order).
+law_id: 401, title: The Bangladesh (Budgetary Provisions) Order, 1972 (President's Order).
+law_id: 403, title: The Finance Order, 1972 (President's Order).
+law_id: 402, title: The National Board of Revenue Order, 1972 (President's Order).
+law_id: 404, title: The Printing Corporation (Vesting) Order, 1972 (President's Order).
+law_id: 405, title: The Bangladesh Coinage Order, 1972 (President's Order).
+law_id: 406, title: The Bangladesh Currency Order, 1972 (President's Order).
+law_id: 407, title: The International Financial Organisations Order, 1972 (President's Order).
+law_id: 408, title: The Bangladesh (Legal Proceedings) (Third) Order, 1972 (President's Order).
+law_id: 409, title: The Bangladesh (Freedom Fighters) Welfare Trust Order, 1972 (President's Order).
+law_id: 410, title: The Bangladesh Insurance (Nationalisation) Order, 1972 (President's Order).
+law_id: 411, title: The Bangladesh Land Holding (Limitation) Order, 1972 (President's Order).
+law_id: 412, title: The Bangladesh Scouts Order, 1972 (President's Order).
+law_id: 413, title: The Pakistan Television Corporation (Taking Over) Order, 1972 (President's Order).
+law_id: 414, title: The Bangladesh Committee of Management (Temporary Arrangement) Order, 1972 (P.O.).
+law_id: 1461, title: The Bangladesh Biman Order, 1972.
+law_id: 415, title: The Bangladesh Bank Order, 1972 (President's Order).
+law_id: 418, title: The Bangladesh National Anthem, Flag and Emblem Order, 1972 (President's Order).
+law_id: 417, title: The Bangladesh Shilpa Bank Order, 1972 (President's Order).
+law_id: 416, title: The Bangladesh Shilpa Rin Sangstha Order, 1972 (President's Order).
+law_id: 419, title: The Bangladesh Industrial Development Corporation (Dissolution) Order, 1972 (President's Order).
+law_id: 420, title: The Bangladesh Transfer of Immovable Property (Temporary Provisions) Order, 1972 (President's Order).
+law_id: 421, title: The Bangladesh Parjatan Corporation Order, 1972 (President's Order).
+law_id: 423, title: The Bangladesh Citizenship (Temporary Provisions) Order, 1972 (President's Order).
+law_id: 422, title: The Bangladesh Rifles Order, 1972 (President's Order).
+law_id: 424, title: The Representation of the People Order, 1972 (President's Order).
+law_id: 425, title: The Bangladesh Insurance Corporation (Dissolution) Order, 1972 (President's Order).
+law_id: 442, title: The Bangladesh Chartered Accountants Order, 1973 (President's Order).
+law_id: 443, title: The Asian Development Bank Order, 1973 (President's Order).
+law_id: 444, title: The Bangladesh House Building Finance Corporation Order, 1973 (President's Order)..
+law_id: 445, title: The Bangladesh Passport Order, 1973 (President's Order)..
+law_id: 447, title: The Dhaka University Order, 1973 (President's Order)..
+law_id: 446, title: The University Grants Commission of Bangladesh Order, 1973 (President's Order).
+law_id: 448, title: The Bangladesh Laws (Repealing and Amending) Order, 1973 (President's Order)..
+law_id: 449, title: The Bangladesh Atomic Energy Commission Order, 1973 (President's Order)..
+law_id: 450, title: The Bangladesh National Liberation Struggle (Indemnity) Order, 1973 (President's Order).
+law_id: 451, title: The Trade Marks (Invalidation and Summary Registration) Order, 1973 (President's Order).
+law_id: 452, title: The Bangladesh Wild Life (Preservation) Order, 1973 (President's Order).
+law_id: 454, title: The Bangladesh Krishi Bank Order, 1973 (President's Order).
+law_id: 453, title: The Bangladesh Red Crescent Society Order, 1973 (President's Order).
+law_id: 455, title: The Members of Parliament (Remuneration and Allowances) Order, 1973 (President's Order).
+law_id: 427, title: The Ministers, Ministers of State and Deputy Ministers (Remuneration and Privileges) Act, 1973.
+law_id: 428, title: The Insurance Corporations Act, 1973.
+law_id: 429, title: The Appropriation (Vote on Account) Act, 1973.
+law_id: 433, title: The Appropriation (Railways) Act, 1973.
+law_id: 430, title: The Bangladesh Laws (Revision And Declaration) Act, 1973.
+law_id: 431, title: The Bangladesh Rice Research Institute Act, 1973.
+law_id: 432, title: The Finance Act, 1973.
+law_id: 434, title: The Appropriation Act, 1973.
+law_id: 435, title: The International Crimes (Tribunals) Act, 1973.
+law_id: 436, title: The Bangladesh Fisheries Development Corporation Act, 1973.
+law_id: 437, title: The Printing Presses and Publications (Declaration and Registration) Act, 1973.
+law_id: 438, title: The Rajshahi University Act, 1973.
+law_id: 439, title: The Bangladesh Girl Guides Association Act, 1973.
+law_id: 440, title: The Chittagong University Act, 1973.
+law_id: 441, title: The Jahangirnagar University Act, 1973.
+law_id: 456, title: The Special Police Establishment (Repeal) Act, 1974.
+law_id: 457, title: The Transfer of Railways (Repeal) Act, 1974.
+law_id: 459, title: The Bidi (Restriction of Manufacture) (Repeal) Act, 1974.
+law_id: 458, title: The Primary Schools (Taking Over) Act, 1974.
+law_id: 461, title: The Bangladesh Jute Research Institute Act, 1974.
+law_id: 460, title: The Public Servants (Retirement) Act, 1974.
+law_id: 462, title: The Special Powers Act, 1974.
+law_id: 464, title: The Members of the Bangladesh Public Service Commission (Terms and Conditions of Service) Act, 1974.
+law_id: 463, title: The Refugees Rehabilitation Finance Corporation (Repeal) Act, 1974.
+law_id: 465, title: The Comptroller and Auditor-General (Additional Functions) Act, 1974.
+law_id: 466, title: The Press Council Act, 1974.
+law_id: 467, title: The Territorial Waters and Maritime Zones Act, 1974.
+law_id: 468, title: The Bangladesh Unnayan Gobeshona Protishthan Act, 1974.
+law_id: 469, title: The Essential Services Laws (Amendment) Act, 1974.
+law_id: 470, title: The Children Act, 1974.
+law_id: 471, title: The Appropriation (Supplementary) Act, 1974.
+law_id: 472, title: The Appropriation (Vote on Account) Act, 1974.
+law_id: 473, title: The Finance Act, 1974.
+law_id: 474, title: The Speaker and Deputy Speaker (Remuneration and Privileges) Act, 1974.
+law_id: 475, title: The Appropriation Act, 1974.
+law_id: 476, title: The Muslim Marriages and Divorces (Registration) Act, 1974.
+law_id: 477, title: The Primary Education Laws (Repeal) Act, 1974.
+law_id: 479, title: The Extradition Act, 1974.
+law_id: 478, title: The National Sports Council Act, 1974.
+law_id: 480, title: The Bangladesh Petroleum Act, 1974.
+law_id: 481, title: The Oil and Gas Development Corporation (Repeal) Act, 1974.
+law_id: 482, title: The Stamp Duties (Additional Modes of Payment) Act, 1974.
+law_id: 483, title: The Record of Jute Growers (Border Areas) Act, 1974.
+law_id: 485, title: The Appropriation (Supplementary) Act, 1975.
+law_id: 486, title: The Appropriation (Vote on Account) Act, 1975.
+law_id: 484, title: The Finance Act, 1975.
+law_id: 489, title: The Bangladesh (Restoration of Evacuee Property) (Effect of Expiry) Act, 1975.
+law_id: 490, title: The Bangladesh Laws (Amendment) Act, 1975.
+law_id: 487, title: The President's (Remuneration and Privileges) Act, 1975.
+law_id: 488, title: The Prime Minister's (Remuneration and Privileges) Act, 1975.
+law_id: 491, title: The ESSO Undertakings Acquisition Act, 1975.
+law_id: 492, title: The Islamic Foundation Act, 1975.
+law_id: 493, title: The Blind Relief (Donation of Eye) Act, 1975.
+law_id: 494, title: The Islamic Development Bank Act, 1975.
+law_id: 496, title: The Nationalised Banks (Transfer of Business) Act, 1975.
+law_id: 495, title: The Services (Reorganisation and Conditions) Act, 1975.
+law_id: 500, title: The Appropriation Act, 1975.
+law_id: 499, title: The Government-owned Newspapers (Management) Act, 1975.
+law_id: 497, title: The Hundred-Taka Demonetised Notes (Mode of Payment and Recovery of Taxes) Act, 1975.
+law_id: 498, title: The Jute Companies (Acquisition of Shares) Ordinance, 1975.
+law_id: 501, title: The Government of Bangladesh (Services) (Repeal) Ordinance, 1975.
+law_id: 502, title: The District Administration (Repeal) Ordinance, 1975.
+law_id: 503, title: The Government Servants (Review of Penalties) Ordinance, 1975.
+law_id: 504, title: The Gandhi Ashram (Board of Trustees) Ordinance, 1975.
+law_id: 505, title: The Jatiya Rakkhi Bahini (Absorption in the Army) Ordinance, 1975.
+law_id: 506, title: The Bidi Manufacture (Prohibition) Ordinance, 1975.
+law_id: 507, title: The Bangladesh Government Hats and Bazars (Management) (Repeal) Ordinance, 1975.
+law_id: 508, title: The Registration (Extension of Limitation) Ordinance, 1975.
+law_id: 509, title: The Universities Laws Amendment Ordinance, 1975.
+law_id: 511, title: The Dhaka Metropolitan Police Ordinance, 1976.
+law_id: 512, title: The International Finance Corporation Ordinance, 1976.
+law_id: 513, title: The Pharmacy Ordinance, 1976.
+law_id: 514, title: The Delimitation of Constituencies Ordinance, 1976.
+law_id: 515, title: The Statutory Corporations (Delegation of Powers) (Repeal) Ordinance, 1976.
+law_id: 516, title: The Alienation of Land (Distressed Circumstances) (Restoration) Ordinance, 1976.
+law_id: 517, title: The Supreme Court Judges (Travelling Allowances) Ordinance, 1976.
+law_id: 518, title: The Investment Corporation of Bangladesh Ordinance, 1976.
+law_id: 519, title: The Land Development Tax Ordinance, 1976.
+law_id: 521, title: The Appropriation (Railways) Ordinance, 1976.
+law_id: 523, title: The Appropriation (Supplementary) Ordinance, 1976.
+law_id: 520, title: The Appropriation Ordinance, 1976.
+law_id: 522, title: The Finance Ordinance, 1976.
+law_id: 524, title: The Railway Nirapatta Bahini Ordinance, 1976.
+law_id: 525, title: The Bangladesh Jute Corporation (Repeal) Ordinance, 1976.
+law_id: 526, title: The Newspapers (Annulment of Declaration) (Repeal) Ordinance, 1976.
+law_id: 527, title: The Chittagong Port Authority Ordinance, 1976.
+law_id: 528, title: The Mongla Port Authority Ordinance, 1976.
+law_id: 529, title: The Public Servants (Marriage with Foreign Nationals) Ordinance, 1976.
+law_id: 530, title: The Bangladesh Agricultural Research Institute Ordinance, 1976.
+law_id: 531, title: The Inland Shipping Ordinance, 1976.
+law_id: 532, title: The Bangladesh Shishu Academy Ordinance, 1976.
+law_id: 533, title: The Chittagong Hill Tracts Development Board Ordinance, 1976.
+law_id: 534, title: The Rajshahi Town Development Authority Ordinance, 1976.
+law_id: 536, title: The Bangladesh Rifles (Special Provisions) Ordinance, 1976.
+law_id: 535, title: The Police Officers (Special Provisions) Ordinance, 1976.
+law_id: 537, title: The Bangabandhu National Agriculture Award Fund Ordinance, 1976.
+law_id: 538, title: The Bangladesh Petroleum Corporation Ordinance, 1976.
+law_id: 539, title: The Chittagong Division Development Board Ordinance, 1976.
+law_id: 540, title: The Vested and Non-Resident Property (Administration) (Repeal) Ordinance, 1976.
+law_id: 541, title: The Bangladesh Malaria Eradication Board (Repeal) Ordinance, 1977.
+law_id: 542, title: The Government of Bangladesh (Services Screening) (Repeal) Ordinance, 1977.
+law_id: 543, title: The Bangladesh Biman Corporation Ordinance, 1977.
+law_id: 548, title: The Appropriation (Railways Supplementary) Ordinance, 1977.
+law_id: 547, title: The Appropriation (Railways) Ordinance, 1977.
+law_id: 545, title: The Appropriation (Supplementary) Ordinance, 1977.
+law_id: 544, title: The Appropriation Ordinance, 1977.
+law_id: 546, title: The Finance Ordinance, 1977.
+law_id: 549, title: The Paurashava Ordinance, 1977 (Ordinance).
+law_id: 550, title: The Minimum Wages (Fixation) (Repeal) Ordinance, 1977.
+law_id: 551, title: The Seeds Ordinance, 1977.
+law_id: 552, title: The Tea Ordinance, 1977.
+law_id: 553, title: The Regulation of Salary of Employees Laws Repeal Ordinance, 1977.
+law_id: 554, title: The Export Promotion Bureau Ordinance, 1977.
+law_id: 555, title: The Bangladesh Travel Agencies (Registration and Control) Ordinance, 1977.
+law_id: 556, title: The Housing and Building Research Institute Ordinance, 1977.
+law_id: 557, title: The Rural Electrification Board Ordinance, 1977.
+law_id: 558, title: The Cost and Management Accountants Ordinance, 1977.
+law_id: 559, title: The Bangladesh Public Service Commission Ordinance, 1977.
+law_id: 561, title: The Bangladesh Sericulture Board Ordinance, 1977.
+law_id: 560, title: The Financial Institutions Laws Amendment Ordinance, 1977.
+law_id: 562, title: The Bangladesh Handloom Board Ordinance, 1977.
+law_id: 563, title: The Government Servants (Review of Penalties) (Dissolution of Review Board) Ordinance, 1978.
+law_id: 564, title: The Prevention of Malaria (Special Provisions) Ordinance, 1978.
+law_id: 565, title: The Bangladesh Council of Scientific and Industrial Research Ordinance, 1978.
+law_id: 566, title: The Madrasah Education Ordinance, 1978.
+law_id: 567, title: The Supreme Court Judges (Remuneration and Privileges) Ordinance, 1978.
+law_id: 569, title: The Bangla Academy Ordinance, 1978.
+law_id: 568, title: The Defence Services Laws Amendment Ordinance, 1978.
+law_id: 571, title: The Appropriation (Railways Supplementary) Ordinance, 1978.
+law_id: 572, title: The Appropriation (Railways) Ordinance, 1978.
+law_id: 573, title: The Appropriation (Supplementary) Ordinance, 1978.
+law_id: 574, title: The Appropriation Ordinance, 1978.
+law_id: 570, title: The Finance Ordinance, 1978.
+law_id: 575, title: The Asian Reinsurance Corporation Ordinance, 1978.
+law_id: 576, title: The Political Parties Ordinance, 1978.
+law_id: 577, title: The Foreign Donations (Voluntary Activities) Regulation Ordinance, 1978.
+law_id: 578, title: The Chittagong Metropolitan Police Ordinance, 1978.
+law_id: 579, title: The Law Reforms Ordinance, 1978.
+law_id: 580, title: The International Centre for Diarrhoeal Disease Research, Bangladesh, Ordinance, 1978.
+law_id: 586, title: The Government Servants (Special Provisions) Ordinance, 1979.
+law_id: 587, title: The Bangladesh Telegraph and Telephone Board Ordinance, 1979.
+law_id: 589, title: The President's Pension Ordinance, 1979.
+law_id: 588, title: The Railway Property (Unlawful Possession) Ordinance, 1979.
+law_id: 593, title: The Armed Police Battalions Ordinance, 1979.
+law_id: 590, title: The Bangladesh Sangbad Sangstha Ordinance, 1979.
+law_id: 592, title: The Defence Services (Supreme Command) Ordinance, 1979.
+law_id: 591, title: The Leader and Deputy Leader of the Opposition (Remuneration and Privileges) Ordinance, 1979.
+law_id: 581, title: The Appropriation (Railways Supplementary) Act, 1979.
+law_id: 582, title: The Appropriation (Railways) Act, 1979.
+law_id: 583, title: The Appropriation (Supplementary) Act, 1979.
+law_id: 585, title: The Appropriation Act, 1979.
+law_id: 584, title: The Finance Act, 1979.
+law_id: 594, title: The Foodgrains Supply (Prevention of Prejudicial Activity) Ordinance, 1979.
+law_id: 595, title: The University Laws Amendment Act, 1980.
+law_id: 610, title: The Public Examinations (Offences) Act, 1980.
+law_id: 596, title: The Banks and Financial Institutions Laws Amendment Act, 1980.
+law_id: 597, title: The Foreign Private Investment (Promotion and Protection) Act, 1980.
+law_id: 600, title: The Medical and Dental Council Act, 1980.
+law_id: 598, title: The Note-Books (Prohibition) Act, 1980.
+law_id: 599, title: The Ombudsman Act, 1980.
+law_id: 601, title: The Appropriation (Railways Supplementary) Act, 1980.
+law_id: 602, title: The Appropriation (Railways) Act, 1980.
+law_id: 603, title: The Appropriation (Supplementary) Act, 1980.
+law_id: 605, title: The Appropriation Act, 1980.
+law_id: 604, title: The Finance Act, 1980.
+law_id: 606, title: The Film Clubs (Registration and Regulation) Act, 1980.
+law_id: 608, title: The Bangladesh Export Processing Zones Authority Act, 1980.
+law_id: 607, title: The Dowry Prohibition Act, 1980.
+law_id: 609, title: ইসলামী বিশ্ববিদ্যালয় আইন, ১৯৮০.
+law_id: 611, title: The Members of Parliament (Determination of Dispute) Act, 1980.
+law_id: 612, title: The Bangladesh Consumer Supplies Corporation (Repeal) Act, 1981.
+law_id: 613, title: The Administrative Tribunals Act, 1980.
+law_id: 614, title: The Appropriation (Railways Supplementary) Act, 1981.
+law_id: 615, title: The Appropriation (Railways) Act, 1981.
+law_id: 616, title: The Appropriation (Supplementary) Act, 1981.
+law_id: 618, title: The Appropriation Act, 1981.
+law_id: 617, title: The Finance Act, 1981.
+law_id: 619, title: The Acquisition and Requisition of Immovable Property Ordinance, 1982.
+law_id: 620, title: The Medical Practice and Private Clinics and Laboratories (Regulation) Ordinance, 1982.
+law_id: 621, title: The Bangladesh Abandoned Children (Special Provisions) (Repeal) Ordinacne, 1982.
+law_id: 622, title: The Zakat Fund Ordinance, 1982.
+law_id: 623, title: The Drugs (Control) Ordinance, 1982.
+law_id: 624, title: The Standards of Weights and Measures Ordinance, 1982.
+law_id: 625, title: The Bangladesh Flag Vessels (Protection) Ordinance, 1982.
+law_id: 626, title: The Finance Ordinance, 1982.
+law_id: 627, title: The Supreme Court Judges (Leave, Pension and Privileges) Ordinance, 1982.
+law_id: 629, title: The Bangladesh Veterinary Practitioners Ordinance, 1982.
+law_id: 628, title: The Emigration Ordinance, 1982.
+law_id: 630, title: The Foreign Contributions (Regulation) Ordinance, 1982.
+law_id: 631, title: The Attia Forest (Protection) Ordinance, 1982.
+law_id: 632, title: The Public Employees Discipline (Punctual Attendance) Ordinance, 1982.
+law_id: 633, title: The Chittagong City Corporation Ordinance, 1982.
+law_id: 634, title: The Haor Development Board (Dissolution) Ordinance, 1982.
+law_id: 635, title: The Off-shore Islands Development Board (Dissolution) Ordinance, 1982.
+law_id: 636, title: The Institute of Islamic Education and Research (Repeal) Ordinance, 1982.
+law_id: 637, title: The Bangladesh Hotels and Restaurants Ordinance, 1982.
+law_id: 639, title: The Electoral Rolls Ordinance, 1982.
+law_id: 640, title: The Fish and Fish Products (Inspection and Quality Control) Ordinance, 1983.
+law_id: 641, title: The Bangladesh Railway Board (Repeal) Ordinance, 1983.
+law_id: 642, title: The Bangladesh Merchant Shipping Ordinance, 1983.
+law_id: 643, title: The Finance Ordinance, 1983.
+law_id: 644, title: The Bangladesh Irrigation Water Rate Ordinance, 1983.
+law_id: 645, title: The Bangladesh Unani and Ayurvedic Practitioners Ordinance, 1983.
+law_id: 646, title: The Marine Fisheries Ordinance, 1983.
+law_id: 647, title: The National Archives Ordinance, 1983.
+law_id: 648, title: The Dhaka City Corporation Ordinance, 1983.
+law_id: 649, title: The Bangladesh Homoeopathic Practitioners Ordinance, 1983.
+law_id: 651, title: The Grameen Bank Ordinance, 1983.
+law_id: 650, title: The Primary Education (Repeal) Ordinance, 1983.
+law_id: 653, title: The Bangladesh Jatiya Jadughar Ordinance, 1983.
+law_id: 654, title: The Motor Vehicles Ordinance, 1983.
+law_id: 655, title: The Chief Election Commissioner and Election Commissioners (Remuneration and Privileges) Ordinance, 1983.
+law_id: 657, title: The Bangladesh Krira Shikkha Protishtan Ordinance, 1983.
+law_id: 656, title: The National Curriculum and Text-Book Board Ordinance, 1983.
+law_id: 658, title: The Bangladesh Nursing Council Ordinance, 1983.
+law_id: 659, title: The Santosh Islamic University (Board of Trustees) Ordinance, 1983.
+law_id: 661, title: The Buddhist Religious Welfare Trust Ordinance, 1983.
+law_id: 662, title: The Christian Religious Welfare Trust Ordinance, 1983.
+law_id: 660, title: The Hindu Religious Welfare Trust Ordinance, 1983.
+law_id: 663, title: The Foreign Voluntary Organisations (Acquisition of Immovable Property) Regulation Ordinance, 1983.
+law_id: 664, title: The Bangladesh Institute of Nuclear Agriculture Ordinance, 1984 (Ordinance).
+law_id: 665, title: The Land Reforms Ordinance, 1984.
+law_id: 666, title: The Agricultural Labour (Minimum Wages) Ordinance, 1984.
+law_id: 667, title: The Bangladesh Public Administration Training Centre Ordinance, 1984.
+law_id: 668, title: The Bangladesh Institute of International and Strategic Studies Ordinance, 1984.
+law_id: 669, title: The Livestock Research Institute Ordinance, 1984.
+law_id: 670, title: The Industrial Relations (Regulation) (Repeal) Ordinance, 1984.
+law_id: 671, title: The Breast-Milk Substitutes (Regulation of Marketing) Ordinance, 1984.
+law_id: 673, title: The Bangladesh Women's Rehabilitation and Welfare Foundation (Repeal) Ordinance, 1984.
+law_id: 672, title: The Income-tax Ordinance, 1984.
+law_id: 674, title: The Nazrul Institute Ordinance, 1984.
+law_id: 675, title: The Finance Ordinance, 1984.
+law_id: 676, title: The Fisheries Research Institute Ordinance, 1984.
+law_id: 677, title: The Districts (Extension to the Chittagong Hill-tracts) Ordinance, 1984.
+law_id: 678, title: The Khulna City Corporation Ordinance, 1984.
+law_id: 679, title: ভূমি-খতিয়ান (পার্বত্য চট্টগ্রাম) অধ্যাদেশ, ১৯৮৪.
+law_id: 680, title: The Public Servants (Dismissal on Conviction) Ordinance, 1985.
+law_id: 682, title: The Family Courts Ordinance, 1985.
+law_id: 681, title: The Ghousul Azam Abdul Qader Jillani Mosque Trust (Repeal) Ordinance, 1985.
+law_id: 683, title: The Bangladesh Oil, Gas and Mineral Corporation Ordinance, 1985.
+law_id: 684, title: The Surplus Public Servants Absorption Ordinance, 1985.
+law_id: 685, title: The Government Primary School Teachers Welfare Trust Ordinance, 1985.
+law_id: 686, title: The Ground Water Management Ordinance, 1985.
+law_id: 687, title: The Finance Ordinance, 1985.
+law_id: 688, title: Bangladesh Bridge Authority Ordinance, 1985.
+law_id: 689, title: The Bangladesh Standards and Testing Institution Ordinance, 1985.
+law_id: 690, title: The Civil Aviation Authority Ordinance, 1985.
+law_id: 691, title: The Youth Welfare Fund Ordinance, 1985.
+law_id: 692, title: The Khulna Metropolitan Police Ordinance, 1985.
+law_id: 693, title: The Abandoned Buildings (Supplementary Provisions) Ordinance, 1985.
+law_id: 694, title: The Chittagong Shahi Jame Masjid Ordinance, 1986.
+law_id: 695, title: The Official Vehicles (Regulation of Use) Ordinance, 1986.
+law_id: 696, title: The Drugs (Supplementary Provisions) Ordinance, 1986.
+law_id: 697, title: The Police (Non-Gazetted Employees) Welfare Fund Ordinance, 1986.
+law_id: 699, title: The Finance Ordinance, 1986.
+law_id: 700, title: The Development Board Laws (Repeal) Ordinance, 1986.
+law_id: 701, title: The Public Corporations (Management Co-ordination) Ordinance, 1986.
+law_id: 704, title: The Bangladesh Academy for Rural Development Ordinance, 1986.
+law_id: 703, title: The Bangladesh Cha Sramik Kallyan Fund Ordinance, 1986.
+law_id: 702, title: The Rajshahi Krishi Unnayan Bank Ordinance, 1986.
+law_id: 705, title: বাংলা ভাষা প্রচলন আইন, ১৯৮৭.
+law_id: 706, title: শাহ্‌জালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ১৯৮৭.
+law_id: 709, title: অর্থ আইন, ১৯৮৭.
+law_id: 708, title: নির্দিষ্টকরণ (অগ্রিম মঞ্জুরী দান) আইন, ১৯৮৭.
+law_id: 707, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৮৭.
+law_id: 710, title: নির্দিষ্টকরণ এ্যাক্ট, ১৯৮৭.
+law_id: 711, title: রাজশাহী সিটি কর্পোরেশন আইন, ১৯৮৭.
+law_id: 712, title: ত্রাণ ও পুনর্বাসন সারচার্জ আইন, ১৯৮৮.
+law_id: 713, title: অস্থাবর সম্পত্তি হুকুমদখল আইন, ১৯৮৮.
+law_id: 716, title: অর্থ আইন, ১৯৮৮.
+law_id: 715, title: নির্দিষ্টকরণ (অগ্রিম মঞ্জুরী দান) আইন, ১৯৮৮.
+law_id: 714, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৮৮.
+law_id: 717, title: নির্দিষ্টকরণ আইন, ১৯৮৮.
+law_id: 718, title: ইট পোড়ানো (নিয়ন্ত্রণ) আইন, ১৯৮৯.
+law_id: 720, title: The Ordnance Factories Board (Repeal) Act, 1989.
+law_id: 719, title: আয়োডিন অভাবজনিত রোগ প্রতিরোধ আইন, ১৯৮৯.
+law_id: 722, title: পার্বত্য জেলাসমূহ (আইন রহিত ও প্রয়োগ এবং বিশেষ বিধান) আইন, ১৯৮৯.
+law_id: 721, title: বাংলাদেশ ঋণ সালিসি আইন, ১৯৮৯.
+law_id: 723, title: বিনিয়োগ বোর্ড আইন, ১৯৮৯.
+law_id: 725, title: খাগড়াছড়ি পার্বত্য জেলা পরিষদ আইন, ১৯৮৯.
+law_id: 726, title: বান্দরবান পার্বত্য জেলা পরিষদ আইন, ১৯৮৯.
+law_id: 724, title: রাংগামাটি পার্বত্য জেলা পরিষদ আইন, ১৯৮৯.
+law_id: 727, title: বাংলাদেশ শিল্পকলা একাডেমী আইন, ১৯৮৯.
+law_id: 729, title: ভূমি আপীল বোর্ড আইন, ১৯৮৯.
+law_id: 728, title: ভূমি সংস্কার বোর্ড আইন, ১৯৮৯.
+law_id: 732, title: অর্থ আইন, ১৯৮৯.
+law_id: 731, title: নির্দিষ্টকরণ (অগ্রিম মঞ্জুরী দান) আইন, ১৯৮৯.
+law_id: 730, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৮৯.
+law_id: 733, title: নির্দিষ্টকরণ আইন, ১৯৮৯.
+law_id: 735, title: বগুড়া পল্লী উন্নয়ন একাডেমী আইন, ১৯৯০.
+law_id: 734, title: বাংলাদেশ কমপিউটার কাউন্সিল আইন, ১৯৯০.
+law_id: 736, title: মাদকদ্রব্য নিয়ন্ত্রণ আইন, ১৯৯০.
+law_id: 737, title: The Development of Industries (Control and Regulation) (Repeal) Act, 1990.
+law_id: 738, title: প্রাথমিক শিক্ষা (বাধ্যতামূলক করণ) আইন, ১৯৯০.
+law_id: 739, title: বেসরকারী শিক্ষা প্রতিষ্ঠান শিক্ষক ও কর্মচারী কল্যাণ ট্রাষ্ট আইন, ১৯৯০.
+law_id: 740, title: ঢাকা বিদ্যুৎ বিতরণ কর্তৃপক্ষ আইন, ১৯৯০.
+law_id: 744, title: অর্থ আইন, ১৯৯০.
+law_id: 743, title: দানকর আইন, ১৯৯০.
+law_id: 742, title: নির্দিষ্টকরণ (অগ্রিম মঞ্জুরী দান) আইন, ১৯৯০.
+law_id: 741, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৯০.
+law_id: 746, title: খুলনা বিশ্ববিদ্যালয় আইন, ১৯৯০.
+law_id: 745, title: নদী গবেষণা ইনষ্টিটিউট আইন, ১৯৯০.
+law_id: 747, title: নির্দিষ্টকরণ আইন, ১৯৯০.
+law_id: 748, title: বাড়ী ভাড়া নিয়ন্ত্রণ আইন, ১৯৯১.
+law_id: 749, title: জাতীয় মহিলা সংস্থা আইন, ১৯৯১.
+law_id: 750, title: নির্বাচন কর্মকর্তা (বিশেষ বিধান) আইন, ১৯৯১.
+law_id: 751, title: ব্যাংক-কোম্পানী আইন, ১৯৯১.
+law_id: 754, title: অর্থ আইন, ১৯৯১.
+law_id: 753, title: নির্দিষ্টকরণ (অগ্রিম মঞ্জুরী দান) আইন, ১৯৯১.
+law_id: 752, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৯১.
+law_id: 755, title: মূল্য সংযোজন কর আইন, ১৯৯১.
+law_id: 756, title: গণভোট আইন, ১৯৯১.
+law_id: 758, title: রাষ্ট্রপতি নির্বাচন আইন, ১৯৯১.
+law_id: 757, title: নির্দিষ্টকরণ (অগ্রিম মঞ্জুরী দান) আইন, ১৯৯১.
+law_id: 759, title: বাংলাদেশ মহাকাশ গবেষণা ও দূর অনুধাবন প্রতিষ্ঠান আইন, ১৯৯১.
+law_id: 760, title: The Local Government (Upazila Parishad and Upazila Administration Reorganisation) (Repeal) Act, 1992.
+law_id: 761, title: পানি সম্পদ পরিকল্পনা আইন, ১৯৯২.
+law_id: 764, title: অর্থ আইন, ১৯৯২.
+law_id: 763, title: নির্দিষ্টকরণ (অগ্রিম মঞ্জুরী দান) আইন, ১৯৯২.
+law_id: 762, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৯২.
+law_id: 765, title: রাজশাহী মহানগরী পুলিশ আইন, ১৯৯২.
+law_id: 766, title: নির্দিষ্টকরণ আইন, ১৯৯২.
+law_id: 767, title: জাতীয় স্থানীয় সরকার ইনষ্টিটিউট আইন, ১৯৯২.
+law_id: 768, title: বেসরকারী বিশ্ববিদ্যালয় আইন, ১৯৯২.
+law_id: 769, title: জাতীয় বিশ্ববিদ্যালয় আইন, ১৯৯২.
+law_id: 770, title: বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয় আইন, ১৯৯২.
+law_id: 771, title: খনি ও খনিজ সম্পদ (নিয়ন্ত্রণ ও উন্নয়ন) আইন, ১৯৯২.
+law_id: 772, title: বাংলাদেশ ট্রেড এন্ড ট্যারিফ কমিশন আইন, ১৯৯২.
+law_id: 773, title: আভ্যন্তরীণ নৌযান শ্রমিক (নিয়োগ-নিয়ন্ত্রণ) আইন, ১৯৯২.
+law_id: 774, title: চিংড়ি চাষ অভিকর আইন, ১৯৯২.
+law_id: 775, title: বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন আইন, ১৯৯৩.
+law_id: 776, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৯৩.
+law_id: 777, title: অর্থ আইন, ১৯৯৩.
+law_id: 778, title: নির্দিষ্টকরণ আইন, ১৯৯৩.
+law_id: 779, title: পারমাণবিক নিরাপত্তা ও বিকিরণ নিয়ন্ত্রণ আইন, ১৯৯৩.
+law_id: 780, title: The Bangladesh Jute Corporation (Repeal) Act, 1993.
+law_id: 781, title: আর্থিক প্রতিষ্ঠান আইন, ১৯৯৩.
+law_id: 783, title: জাতীয় সংসদ সচিবালয় আইন, ১৯৯৪.
+law_id: 782, title: প্রচলিত আইন ও আইনগত দলিল (অভিযোজন) আইন, ১৯৯৪.
+law_id: 784, title: তফসিলভুক্ত দরগাহ্‌ (পরিচালনা ও ব্যবস্থাপনা) রহিতকরণ আইন, ১৯৯৪.
+law_id: 785, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৯৪.
+law_id: 786, title: অর্থ আইন, ১৯৯৪.
+law_id: 787, title: নির্দিষ্টকরণ আইন, ১৯৯৪.
+law_id: 788, title: কোম্পানী আইন, ১৯৯৪.
+law_id: 790, title: কোষ্ট গার্ড আইন, ১৯৯৪.
+law_id: 789, title: সন্ত্রাসমূলক অপরাধ দমন (বিশেষ বিধান) আইন, ১৯৯৪.
+law_id: 792, title: আনসার বাহিনী আইন, ১৯৯৫.
+law_id: 794, title: গ্রাম প্রতিরক্ষা দল আইন, ১৯৯৫.
+law_id: 791, title: বাংলাদেশ পরিবেশ সংরক্ষণ আইন, ১৯৯৫.
+law_id: 793, title: ব্যাটালিয়ন আনসার আইন, ১৯৯৫.
+law_id: 795, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৯৫.
+law_id: 796, title: অর্থ আইন, ১৯৯৫.
+law_id: 797, title: নির্দিষ্টকরণ আইন, ১৯৯৫.
+law_id: 799, title: বিচার প্রশাসন প্রশিক্ষণ ইনস্টিটিউট আইন, ১৯৯৫.
+law_id: 798, title: যমুনা বহুমুখী সেতু প্রকল্প (ভূমি অধিগ্রহণ) আইন, ১৯৯৫.
+law_id: 800, title: আনসার-ভিডিপি উন্নয়ন ব্যাংক আইন, ১৯৯৫.
+law_id: 801, title: জাতীয় গ্রন্থকেন্দ্র আইন, ১৯৯৫.
+law_id: 803, title: সংযুক্ত তহবিল (অগ্রিম মঞ্জুরী দান ও নির্দিষ্টকরণ) আইন, ১৯৯৬.
+law_id: 802, title: সংযুক্ত তহবিল (সম্পূরক মঞ্জুরী দান ও নির্দিষ্টকরণ) আইন, ১৯৯৬.
+law_id: 804, title: পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ আইন, ১৯৯৬.
+law_id: 806, title: বাংলাদেশ ইক্ষু গবেষণা ইনষ্টিটিউট আইন, ১৯৯৬.
+law_id: 805, title: বাংলাদেশ কৃষি গবেষণা কাউন্সিল আইন, ১৯৯৬.
+law_id: 808, title: অর্থ আইন, ১৯৯৬.
+law_id: 809, title: আইন কমিশন আইন, ১৯৯৬.
+law_id: 807, title: নির্দিষ্টকরণ আইন, ১৯৯৬.
+law_id: 810, title: বাংলাদেশ বেসরকারী রপ্তানী প্রক্রিয়াকরণ অঞ্চল আইন, ১৯৯৬.
+law_id: 811, title: The Indemnity (Repeal) Act, 1996.
+law_id: 812, title: দেউলিয়া বিষয়ক আইন, ১৯৯৭.
+law_id: 813, title: বাংলাদেশ কমার্স এন্ড ইনভেষ্টমেন্ট লিমিটেড (পুনর্গঠন) আইন, ১৯৯৭.
+law_id: 814, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৯৭.
+law_id: 815, title: অর্থ আইন, ১৯৯৭.
+law_id: 816, title: নির্দিষ্টকরণ আইন, ১৯৯৭.
+law_id: 817, title: বিমান-নিরাপত্তা বিরোধী অপরাধ দমন আইন, ১৯৯৭.
+law_id: 818, title: বঙ্গবন্ধু শেখ মুজিব মেডিক্যাল বিশ্ববিদ্যালয় আইন, ১৯৯৮.
+law_id: 819, title: মহা হিসাব নিরীক্ষক ও নিয়ন্ত্রক (পারিশ্রমিক ও বিশেষ অধিকার) আইন, ১৯৯৮.
+law_id: 820, title: কর্মসংস্থান ব্যাংক আইন, ১৯৯৮.
+law_id: 821, title: বাংলাদেশ লোক ও কারুশিল্প ফাউন্ডেশন আইন, ১৯৯৮.
+law_id: 822, title: পার্বত্য চট্টগ্রাম আঞ্চলিক পরিষদ আইন, ১৯৯৮.
+law_id: 824, title: অর্থ আইন, ১৯৯৮.
+law_id: 823, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৯৮.
+law_id: 825, title: নির্দিষ্টকরণ আইন, ১৯৯৮.
+law_id: 826, title: বঙ্গবন্ধু শেখ মুজিবুর রহমান কৃষি বিশ্ববিদ্যালয় আইন, ১৯৯৮.
+law_id: 827, title: উপজেলা পরিষদ আইন, ১৯৯৮.
+law_id: 829, title: ডিপজিটরি আইন, ১৯৯৯.
+law_id: 828, title: মানবদেহে অঙ্গ-প্রত্যঙ্গ সংযোজন আইন, ১৯৯৯.
+law_id: 830, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ১৯৯৯.
+law_id: 831, title: অর্থ আইন, ১৯৯৯.
+law_id: 832, title: নির্দিষ্টকরণ আইন, ১৯৯৯.
+law_id: 833, title: পল্লী দারিদ্র বিমোচন ফাউন্ডেশন আইন, ১৯৯৯.
+law_id: 834, title: আইনগত সহায়তা প্রদান আইন, ২০০০.
+law_id: 835, title: নারী ও শিশু নির্যাতন দমন আইন, ২০০০.
+law_id: 836, title: পরিবেশ আদালত আইন, ২০০০.
+law_id: 837, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০০.
+law_id: 838, title: অর্থ আইন, ২০০০.
+law_id: 839, title: নির্দিষ্টকরণ আইন, ২০০০.
+law_id: 842, title: ক্যাডার বহির্ভূত প্রথম ও দ্বিতীয় শ্রেণীর গেজেটেড কর্মকর্তা (শুল্ক, আবগারী ও ভ্যাট) নিয়োগ ও কর্মের শর্তাবলী আইন, ২০০০.
+law_id: 841, title: জেলা পরিষদ আইন, ২০০০.
+law_id: 840, title: ব্যাংক আমানত বীমা আইন, ২০০০.
+law_id: 845, title: জাতীয় গৃহায়ন কর্তৃপক্ষ আইন, ২০০০.
+law_id: 844, title: বাংলাদেশ পানি উন্নয়ন বোর্ড আইন, ২০০০.
+law_id: 843, title: বেসরকারীকরণ আইন, ২০০০.
+law_id: 846, title: কপিরাইট আইন, ২০০০.
+law_id: 847, title: মহানগরী, বিভাগীয় শহর ও জেলা শহরের পৌর এলাকাসহ দেশের সকল পৌর এলাকার খেলার মাঠ, উন্মুক্ত স্থান, উদ্যান এবং প্রাকৃতিক জলাধার সংরক্ষণ আইন, ২০০০.
+law_id: 849, title: এডমিরালটি কোর্ট আইন, ২০০০.
+law_id: 848, title: বেসরকারী প্রাথমিক শিক্ষক কল্যাণ ট্রাস্ট আইন, ২০০০.
+law_id: 850, title: সালিস আইন, ২০০১.
+law_id: 851, title: The Dramatic Performances (Repeal) Act, 2001.
+law_id: 853, title: বরিশাল সিটি কর্পোরেশন আইন, ২০০১.
+law_id: 854, title: বাংলাদেশ প্রতিবন্ধী কল্যাণ আইন, ২০০১.
+law_id: 852, title: সিলেট সিটি কর্পোরেশন আইন, ২০০১.
+law_id: 856, title: অর্পিত সম্পত্তি প্রত্যর্পণ আইন, ২০০১.
+law_id: 855, title: বাংলাদেশ ইনস্টিটিউট অব পার্লামেন্টারী স্ট্যাডিজ আইন, ২০০১.
+law_id: 858, title: ঢাকা যানবাহন সমন্বয় বোর্ড আইন, ২০০১.
+law_id: 857, title: বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ আইন, ২০০১.
+law_id: 859, title: বাংলাদেশ স্থলবন্দর কর্তৃপক্ষ আইন, ২০০১.
+law_id: 860, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০১.
+law_id: 861, title: অর্থ আইন, ২০০১.
+law_id: 862, title: নির্দিষ্টকরণ আইন, ২০০১.
+law_id: 866, title: বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 863, title: বাংলাদেশ শিল্পী কল্যাণ ট্রাস্ট আইন, ২০০১.
+law_id: 864, title: রংপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 865, title: হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 868, title: পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 867, title: মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 870, title: নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 872, title: পাবনা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 871, title: বগুড়া বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 874, title: বরিশাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 873, title: যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 869, title: রাঙ্গামাটি বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 875, title: শেরেবাংলা কৃষি বিশ্ববিদ্যালয় আইন, ২০০১.
+law_id: 876, title: সমবায় সমিতি আইন, ২০০১.
+law_id: 880, title: ইমাম ও মুয়াজ্জিন কল্যাণ ট্রাস্ট আইন, ২০০১.
+law_id: 877, title: পার্বত্য চট্টগ্রাম ভূমি-বিরোধ নিষ্পত্তি কমিশন আইন, ২০০১.
+law_id: 879, title: বাংলাদেশ টেলিভিশন কর্তৃপক্ষ আইন, ২০০১.
+law_id: 878, title: বাংলাদেশ বেতার কর্তৃপক্ষ আইন, ২০০১.
+law_id: 881, title: জাতির পিতার পরিবার-সদস্যগণের নিরাপত্তা (রহিতকরণ) আইন, ২০০১.
+law_id: 883, title: এসিড অপরাধ দমন আইন, ২০০২.
+law_id: 882, title: এসিড নিয়ন্ত্রণ আইন, ২০০২.
+law_id: 884, title: জাতির পিতার প্রতিকৃতি সংরক্ষণ ও প্রদর্শন (রহিতকরণ) আইন, ২০০২.
+law_id: 885, title: জননিরাপত্তা (বিশেষ বিধান) (রহিতকরণ) আইন, ২০০২.
+law_id: 887, title: জাতীয় মুক্তিযোদ্ধা কাউন্সিল আইন, ২০০২.
+law_id: 886, title: মানিলণ্ডারিং প্রতিরোধ আইন, ২০০২.
+law_id: 888, title: আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) আইন, ২০০২.
+law_id: 889, title: নিরাপদ রক্ত পরিসঞ্চালন আইন, ২০০২.
+law_id: 890, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০২.
+law_id: 891, title: অর্থ আইন, ২০০২.
+law_id: 892, title: নির্দিষ্টকরণ আইন, ২০০২.
+law_id: 893, title: শিশু-মাতৃ স্বাস্থ্য ইনস্‌টিটিউট আইন, ২০০২.
+law_id: 894, title: পুলিশ ষ্টাফ কলেজ আইন, ২০০২.
+law_id: 896, title: দ্রুত বিচার ট্রাইব্যুনাল আইন, ২০০২.
+law_id: 895, title: বেসরকারী শিক্ষা প্রতিষ্ঠান শিক্ষক ও কর্মচারী অবসর সুবিধা আইন, ২০০২.
+law_id: 897, title: যৌথ অভিযান দায়মুক্তি আইন, ২০০৩.
+law_id: 899, title: গ্রাম সরকার আইন, ২০০৩.
+law_id: 898, title: ভ্রমণ কর আইন, ২০০৩.
+law_id: 900, title: অগ্নি প্রতিরোধ ও নির্বাপণ আইন, ২০০৩.
+law_id: 901, title: অর্থ ঋণ আদালত আইন, ২০০৩.
+law_id: 902, title: বাংলাদেশ এনার্জি রেগুলেটরী কমিশন আইন, ২০০৩.
+law_id: 903, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৩.
+law_id: 904, title: অর্থ আইন, ২০০৩.
+law_id: 905, title: নির্দিষ্টকরণ আইন, ২০০৩.
+law_id: 906, title: বাংলাদেশ রেশম গবেষণা ও প্রশিক্ষণ ইনস্টিটিউট আইন, ২০০৩.
+law_id: 909, title: খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০৩.
+law_id: 907, title: চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০৩.
+law_id: 910, title: ঢাকা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়, গাজীপুর আইন,২০০৩.
+law_id: 911, title: বিশেষ আদালত (অতিরিক্ত দায়িত্ব) আইন, ২০০৩.
+law_id: 908, title: রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০৩.
+law_id: 912, title: বাংলাদেশ কর্মচারী কল্যাণ বোর্ড আইন, ২০০৪.
+law_id: 913, title: আদালত সংস্কার বাস্তবায়ন (সহায়ক বিধান) আইন, ২০০৪.
+law_id: 914, title: দুর্নীতি দমন কমিশন আইন, ২০০৪.
+law_id: 915, title: বাংলাদেশ পেট্রোলিয়াম ইন্সটিটিউট আইন, ২০০৪.
+law_id: 916, title: বিরোধ মীমাংসা (পৌর এলাকা) বোর্ড আইন, ২০০৪.
+law_id: 917, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৪.
+law_id: 918, title: অর্থ আইন, ২০০৪.
+law_id: 919, title: নির্দিষ্টকরণ আইন, ২০০৪.
+law_id: 920, title: ইপিজেড শ্রমিক সংঘ ও শিল্প সম্পর্ক আইন, ২০০৪.
+law_id: 921, title: জন্ম ও মৃত্যু নিবন্ধন আইন, ২০০৪.
+law_id: 922, title: জাতীয় সংসদ (সংরক্ষিত মহিলা আসন) নির্বাচন আইন, ২০০৪.
+law_id: 923, title: বেসরকারী শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষ আইন, ২০০৫.
+law_id: 924, title: ব্যক্তি মালিকানাধীন সড়ক পরিবহন শ্রমিক কল্যাণ তহবিল.
+law_id: 925, title: পশুরোগ আইন, ২০০৫.
+law_id: 926, title: বাংলাদেশ পশু ও পশুজাত পণ্য সঙ্গনিরোধ আইন, ২০০৫.
+law_id: 928, title: জাতীয় কম্পিউটার প্রশিক্ষণ ও গবেষণা একাডেমী আইন, ২০০৫.
+law_id: 927, title: ধূমপান ও তামাকজাত দ্রব্য ব্যবহার (নিয়ন্ত্রণ) আইন, ২০০৫.
+law_id: 929, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৫.
+law_id: 930, title: অর্থ আইন, ২০০৫.
+law_id: 931, title: নির্দিষ্টকরণ আইন, ২০০৫.
+law_id: 932, title: কর-ন্যায়পাল আইন, ২০০৫.
+law_id: 933, title: জগন্নাথ বিশ্ববিদ্যালয় আইন, ২০০৫.
+law_id: 934, title: সার ব্যবস্থাপনা আইন, ২০০৬.
+law_id: 935, title: বেসরকারী নিরাপত্তা সেবা আইন, ২০০৬.
+law_id: 936, title: কুমিল্লা বিশ্ববিদ্যালয় আইন, ২০০৬.
+law_id: 938, title: গ্রাম আদালত আইন, ২০০৬.
+law_id: 937, title: জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয় আইন, ২০০৬.
+law_id: 939, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৬.
+law_id: 940, title: অর্থ আইন, ২০০৬.
+law_id: 941, title: নির্দিষ্টকরণ আইন, ২০০৬.
+law_id: 942, title: পাবলিক প্রকিউরমেন্ট আইন, ২০০৬.
+law_id: 943, title: বাংলাদেশ শ্রমিক কল্যাণ ফাউন্ডেশন আইন, ২০০৬.
+law_id: 944, title: পণ্য উৎপাদনশীল রাষ্ট্রীয় শিল্প প্রতিষ্ঠান শ্রমিক (চাকুরীর শর্তাবলী) আইন, ২০০৬.
+law_id: 946, title: চট্টগ্রাম ভেটেরিনারি ও এনিম্যাল সাইন্সেস বিশ্ববিদ্যালয় আইন, ২০০৬.
+law_id: 945, title: বাংলাদেশ এ্যাক্রেডিটেশন আইন, ২০০৬.
+law_id: 947, title: মাইক্রোক্রেডিট রেগুলেটরী অথরিটি আইন, ২০০৬.
+law_id: 949, title: কেবল টেলিভিশন নেটওয়ার্ক পরিচালনা আইন, ২০০৬.
+law_id: 948, title: রাসায়নিক অস্ত্র (নিষিদ্ধকরণ) আইন, ২০০৬.
+law_id: 951, title: এশিয়ান ইউনিভার্সিটি ফর উইমেন আইন, ২০০৬.
+law_id: 950, title: তথ্য ও যোগাযোগ প্রযুক্তি আইন, ২০০৬.
+law_id: 956, title: কারাগারে আটক সাজাপ্রাপ্ত নারীদের বিশেষ সুবিধা আইন, ২০০৬.
+law_id: 954, title: বরিশাল বিশ্ববিদ্যালয় আইন, ২০০৬.
+law_id: 952, title: বাংলাদেশ শ্রম আইন, ২০০৬.
+law_id: 953, title: রংপুর কারমাইকেল বিশ্ববিদ্যালয় আইন, ২০০৬.
+law_id: 955, title: সিলেট কৃষি বিশ্ববিদ্যালয় আইন, ২০০৬.
+law_id: 1007, title: অর্থ (২০০৭-২০০৮ অর্থ বৎসর) আইন, ২০০৯.
+law_id: 1008, title: অর্থ (২০০৮-২০০৯ অর্থ বৎসর) আইন, ২০০৯.
+law_id: 1000, title: নির্দিষ্টকরণ (সম্পূরক) (২০০৬-০৭ অর্থ বৎসর) আইন, ২০০৯.
+law_id: 1002, title: নির্দিষ্টকরণ (সম্পূরক) (২০০৭-০৮ অর্থ বৎসর) আইন, ২০০৯.
+law_id: 1001, title: নির্দিষ্টকরণ (২০০৭-০৮ অর্থ বৎসর) আইন, ২০০৯.
+law_id: 1003, title: নির্দিষ্টকরণ (২০০৮-০৯ অর্থ বৎসর) আইন, ২০০৯.
+law_id: 1004, title: নির্বাচন কমিশন সচিবালয় আইন, ২০০৯.
+law_id: 1005, title: ভোটার তালিকা আইন, ২০০৯.
+law_id: 1006, title: মানিলণ্ডারিং প্রতিরোধ আইন, ২০০৯.
+law_id: 1009, title: সন্ত্রাস বিরোধী আইন, ২০০৯.
+law_id: 1010, title: ট্রেডমার্ক আইন, ২০০৯.
+law_id: 1011, title: তথ্য অধিকার আইন, ২০০৯.
+law_id: 1013, title: বরিশাল মহানগরী পুলিশ আইন, ২০০৯.
+law_id: 1014, title: ভোক্তা অধিকার সংরক্ষণ আইন, ২০০৯.
+law_id: 1012, title: সিলেট মহানগরী পুলিশ আইন, ২০০৯.
+law_id: 1041, title: গ্রাম সরকার (রহিতকরণ) আইন, ২০০৯.
+law_id: 1017, title: পদ্মা বহুমুখী সেতু প্রকল্প (ভূমি অধিগ্রহণ) আইন, ২০০৯.
+law_id: 1016, title: বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনালস আইন, ২০০৯.
+law_id: 1015, title: বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর আইন, ২০০৯.
+law_id: 1019, title: অর্থ আইন, ২০০৯.
+law_id: 1018, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৯.
+law_id: 1020, title: নির্দিষ্টকরণ আইন, ২০০৯.
+law_id: 1021, title: সরকারি অর্থ ও বাজেট ব্যবস্থাপনা আইন, ২০০৯.
+law_id: 1023, title: জাতীয় মানবাধিকার কমিশন আইন, ২০০৯.
+law_id: 1022, title: বাংলাদেশ টেলিভিশনের জন্য টেরেস্ট্রিয়াল টেলিভিশন সম্প্রচার সুবিধা সংরক্ষণ আইন, ২০০৯.
+law_id: 1025, title: মোবাইল কোর্ট আইন, ২০০৯.
+law_id: 1024, title: স্থানীয় সরকার (পৌরসভা) আইন, ২০০৯.
+law_id: 1028, title: জাতির পিতার পরিবার-সদস্যগণের নিরাপত্তা আইন, ২০০৯.
+law_id: 1027, title: স্থানীয় সরকার (ইউনিয়ন পরিষদ) আইন, ২০০৯.
+law_id: 1026, title: স্থানীয় সরকার (সিটি কর্পোরেশন) আইন, ২০০৯.
+law_id: 1030, title: জাতীয় পরিচয় নিবন্ধন আইন, ২০১০.
+law_id: 1029, title: মৎস্যখাদ্য ও পশুখাদ্য আইন, ২০১০.
+law_id: 1033, title: জাতীয় বিজ্ঞান ও প্রযুক্তি জাদুঘর আইন, ২০১০.
+law_id: 1034, title: ন্যাশনাল ইনস্টিটিউট অব বায়োটেকনোলজি আইন, ২০১০.
+law_id: 1031, title: বঙ্গবন্ধু শেখ মুজিবুর রহমান নভোথিয়েটার আইন, ২০১০.
+law_id: 1035, title: বাংলাদেশ ন্যাশনাল সায়েন্টিফিক এন্ড টেকনিক্যাল ডকুমেন্টেশন সেন্টার (ব্যান্সডক) আইন, ২০১০.
+law_id: 1032, title: বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ আইন, ২০১০.
+law_id: 1037, title: বীমা আইন, ২০১০.
+law_id: 1036, title: বীমা উন্নয়ন ও নিয়ন্ত্রণ কর্তৃপক্ষ আইন,২০১০.
+law_id: 1042, title: মৎস্য হ্যাচারি আইন, ২০১০.
+law_id: 1043, title: ক্ষুদ্র নৃ-গোষ্ঠী সাংস্কৃতিক প্রতিষ্ঠান আইন, ২০১০.
+law_id: 1045, title: চার্টার্ড সেক্রেটারীজ আইন, ২০১০.
+law_id: 1046, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১০.
+law_id: 1048, title: নির্দিষ্টকরণ আইন, ২০১০.
+law_id: 1047, title: বাংলাদেশ পর্যটন সংরক্ষিত এলাকা ও বিশেষ পর্যটন অঞ্চল আইন, ২০১০.
+law_id: 1050, title: বাংলাদেশ পর্যটন বোর্ড আইন, ২০১০.
+law_id: 1057, title: বেসরকারী বিশ্ববিদ্যালয় আইন, ২০১০.
+law_id: 1052, title: বাংলাদেশ গ্যাস আইন, ২০১০.
+law_id: 1054, title: ইপিজেড শ্রমিক কল্যাণ সমিতি ও শিল্প সম্পর্ক আইন, ২০১০.
+law_id: 1053, title: বাংলাদেশ অর্থনৈতিক অঞ্চল আইন, ২০১০.
+law_id: 1056, title: বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয় আইন, ২০১০.
+law_id: 1055, title: রিয়েল এস্টেট উন্নয়ন ও ব্যবস্থাপনা আইন, ২০১০.
+law_id: 1064, title: আন্তজার্তিক মাতৃভাষা ইনস্টিটিউট আইন, ২০১০.
+law_id: 1062, title: জলবায়ু পরিবর্তন ট্রাস্ট আইন, ২০১০.
+law_id: 1058, title: পণ্যে পাটজাত মোড়কের বাধ্যতামূলক ব্যবহার আইন, ২০১০.
+law_id: 1061, title: পরিবেশ আদালত আইন, ২০১০.
+law_id: 1063, title: পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন, ২০১০.
+law_id: 1060, title: প্রবাসী কল্যাণ ব্যাংক আইন, ২০১০.
+law_id: 1059, title: বিদ্যুৎ ও জ্বালানীর দ্রুত সরবরাহ বৃদ্ধি (বিশেষ বিধান) আইন, ২০১০.
+law_id: 1067, title: বর্ডার গার্ড বাংলাদেশ আইন, ২০১০.
+law_id: 1065, title: বাংলাদেশ মেডিকেল ও ডেন্টাল কাউন্সিল আইন, ২০১০.
+law_id: 1066, title: বালুমহাল ও মাটি ব্যবস্থাপনা আইন, ২০১০.
+law_id: 1068, title: বঙ্গবন্ধু ক্রীড়াসেবী কল্যাণ ফাউন্ডেশন আইন, ২০১১.
+law_id: 1070, title: উদ্ভিদ সংগনিরোধ আইন, ২০১১.
+law_id: 1074, title: কর-ন্যায়পাল (রহিতকরণ ) আইন, ২০১১.
+law_id: 1072, title: জনস্বার্থ সংশ্লিষ্ট তথ্য প্রকাশ (সুরক্ষা প্রদান) আইন, ২০১১.
+law_id: 1073, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১১.
+law_id: 1076, title: অর্থ আইন, ২০১১.
+law_id: 1075, title: ঢাকা এলিভেটেড এক্সপ্রেসওয়ে প্রকল্প (ভূমি অধিগ্রহণ) আইন , ২০১১.
+law_id: 1077, title: নির্দিষ্টকরণ আইন, ২০১১.
+law_id: 1079, title: পশু জবাই ও মাংসের মান নিয়ন্ত্রন আইন, ২০১১.
+law_id: 1078, title: ভবঘুরে ও নিরাশ্রয় ব্যক্তি (পুনর্বাসন) আইন, ২০১১.
+law_id: 1081, title: চলচ্চিত্র সংসদ (নিবন্ধন) আইন, ২০১১.
+law_id: 1080, title: বিজ্ঞান ও প্রযুক্তি উন্নয়ন ট্রাস্ট আইন, ২০১১.
+law_id: 1085, title: Public Servants (Retirement) (Amendment) Act, 2012.
+law_id: 1087, title: অপরাধ সম্পর্কিত বিষয়ে পারস্পরিক সহায়তা আইন, ২০১২.
+law_id: 1084, title: দেওয়াল লিখন ও পোস্টার লাগানো (নিয়ন্ত্রণ) আইন, ২০১২.
+law_id: 1086, title: মানব পাচার প্রতিরোধ ও দমন আইন, ২০১২.
+law_id: 1088, title: মানিলন্ডারিং প্রতিরোধ আইন, ২০১২.
+law_id: 1090, title: ঢাকা পরিবহন সমন্বয় কর্তৃপক্ষ আইন, ২০১২.
+law_id: 1091, title: পর্নোগ্রাফি নিয়ন্ত্রণ আইন, ২০১২.
+law_id: 1093, title: বঙ্গবন্ধু দারিদ্র্য বিমোচন ও পল্লী উন্নয়ন একাডেমি আইন, ২০১২.
+law_id: 1092, title: বাংলাদেশ কৃষি গবেষণা কাউন্সিল আইন, ২০১২.
+law_id: 1094, title: প্রধানমন্ত্রীর শিক্ষা সহায়তা ট্রাস্ট আইন, ২০১২.
+law_id: 1097, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১২.
+law_id: 1096, title: বাংলাদেশ পরমাণু শক্তি নিয়ন্ত্রণ আইন, ২০১২.
+law_id: 1095, title: বাংলাদেশ ফলিত পুষ্টি গবেষণা ও প্রশিক্ষণ ইনস্টিটিউট আইন, ২০১২.
+law_id: 1098, title: প্রতিযোগিতা আইন, ২০১২.
+law_id: 1099, title: পণ্য উৎপাদনশীল রাষ্ট্রীয় শিল্প প্রতিষ্ঠান শ্রমিক (চাকুরীর শর্তাবলী) আইন, ২০১২.
+law_id: 1100, title: নির্দিষ্টকরণ আইন, ২০১২.
+law_id: 1101, title: পাবলিক বিশ্ববিদ্যালয় শিক্ষক (অবসর গ্রহণ) (বিশেষ বিধান) আইন, ২০১২.
+law_id: 1102, title: বন্যপ্রাণী (সংরক্ষণ ও নিরাপত্তা) আইন, ২০১২.
+law_id: 1103, title: দুর্যোগ ব্যবস্থাপনা আইন, ২০১২.
+law_id: 1104, title: পাওয়ার অব অ্যাটর্নি আইন, ২০১২.
+law_id: 1105, title: হিন্দু বিবাহ নিবন্ধন আইন, ২০১২.
+law_id: 1107, title: টেকসই ও নবায়নযোগ্য জ্বালানি উন্নয়ন কর্তৃপক্ষ আইন, ২০১২.
+law_id: 1106, title: মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২.
+law_id: 1108, title: আদালত অবমাননা আইন, ২০১৩.
+law_id: 1109, title: ওয়াক্‌ফ (সম্পত্তি হস্তান্তর ও উন্নয়ন) বিশেষ বিধান আইন, ২০১৩.
+law_id: 1110, title: ১৯৭৫ সালের ১৫ আগস্ট হইতে ১৯৭৯ সালের ৯ এপ্রিল তারিখ পর্যন্ত সময়ের মধ্যে জারীকৃত কতিপয় অধ্যাদেশ কার্যকরকরণ (বিশেষ বিধান) আইন, ২০১৩.
+law_id: 1111, title: ১৯৮২ সালের ২৪ মার্চ হইতে ১৯৮৬ সালের ১১ নভেম্বর তারিখ পর্যন্ত সময়ের মধ্যে জারীকৃত কতিপয় অধ্যাদেশ কার্যকরকরণ (বিশেষ বিধান) আইন,২০১৩.
+law_id: 1112, title: পরিসংখ্যান আইন, ২০১৩.
+law_id: 1113, title: বাংলাদেশ রেশম উন্নয়ন বোর্ড আইন, ২০১৩.
+law_id: 1115, title: এক্সচেঞ্জেস ডিমিউচ্যুয়ালাইজেশন আইন, ২০১৩.
+law_id: 1114, title: বাংলাদেশ পানি আইন, ২০১৩.
+law_id: 1116, title: বাংলাদেশ রাবার বোর্ড আইন, ২০১৩.
+law_id: 1117, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১৩.
+law_id: 1118, title: বাংলাদেশ চলচ্চিত্র এবং টেলিভিশন ইনস্টিটিউট আইন, ২০১৩.
+law_id: 1119, title: শিশু আইন, ২০১৩.
+law_id: 1120, title: নির্দিষ্টকরণ আইন, ২০১৩.
+law_id: 1122, title: জাতীয় নদী রক্ষা কমিশন আইন, ২০১৩.
+law_id: 1121, title: সড়ক রক্ষণাবেক্ষণ তহবিল বোর্ড আইন, ২০১৩.
+law_id: 1125, title: ইসলামি আরবি বিশ্ববিদ্যালয় আইন, ২০১৩.
+law_id: 1123, title: বাংলা একাডেমি আইন, ২০১৩.
+law_id: 1124, title: মাতৃদুগ্ধ বিকল্প, শিশু খাদ্য, বাণিজ্যিকভাবে প্রস্ত্ততকৃত শিশুর বাড়তি খাদ্য ও উহা ব্যবহারের সরঞ্জামাদি (বিপণন নিয়ন্ত্রণ) আইন, ২০১৩.
+law_id: 1126, title: প্রতিবন্ধী ব্যক্তির অধিকার ও সুরক্ষা আইন, ২০১৩.
+law_id: 1127, title: নিরাপদ খাদ্য আইন, ২০১৩.
+law_id: 1129, title: বাংলাদেশ বিজ্ঞান ও শিল্প গবেষণা পরিষদ আইন, ২০১৩.
+law_id: 1128, title: মাল্টি-লেভেল মার্কেটিং কার্যক্রম (নিয়ন্ত্রণ) আইন, ২০১৩.
+law_id: 1133, title: নির্যাতন এবং হেফাজতে মৃত্যু (নিবারণ) আইন, ২০১৩.
+law_id: 1132, title: পিতা-মাতার ভরণ-পোষণ আইন, ২০১৩.
+law_id: 1130, title: বঙ্গবন্ধু শেখ মুজিবুর রহমান মেরিটাইম ইউনিভার্সিটি, বাংলাদেশ আইন, ২০১৩.
+law_id: 1131, title: বৈদেশিক কর্মসংস্থান ও অভিবাসী আইন, ২০১৩.
+law_id: 1136, title: [ভৌগোলিক নির্দেশক পণ্য (নিবন্ধন ও সুরক্ষা) আইন, ২০১৩.
+law_id: 1137, title: এশিয়ান রি-ইন্স্যুরেন্স কর্পোরেশন আইন, ২০১৩.
+law_id: 1138, title: গ্রামীণ ব্যাংক আইন, ২০১৩.
+law_id: 1134, title: নিউরো-ডেভেলপমেন্টাল প্রতিবন্ধী সুরক্ষা ট্রাস্ট আইন, ২০১৩.
+law_id: 1139, title: পল্লী বিদ্যুতায়ন বোর্ড আইন, ২০১৩.
+law_id: 1135, title: পায়রা বন্দর কর্তৃপক্ষ আইন, ২০১৩.
+law_id: 1140, title: ইট প্রস্তুত ও ভাটা স্থাপন (নিয়ন্ত্রণ) আইন, ২০১৩.
+law_id: 1144, title: বাংলাদেশ ইনস্টিটিউট অব ইন্টারন্যাশনাল এন্ড স্ট্র্যাটেজিক স্টাডিজ আইন, ২০১৩.
+law_id: 1141, title: বাংলাদেশ ট্রাভেল এজেন্সি (নিবন্ধন ও নিয়ন্ত্রণ) আইন, ২০১৩.
+law_id: 1142, title: বাংলাদেশ তাঁত বোর্ড আইন, ২০১৩.
+law_id: 1143, title: ভোজ্যতেলে ভিটামিন ‘এ’ সমৃদ্ধকরণ আইন, ২০১৩.
+law_id: 1145, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১৪.
+law_id: 1146, title: অর্থ আইন, ২০১৪.
+law_id: 1147, title: নির্দিষ্টকরণ আইন, ২০১৪.
+law_id: 1149, title: পল্লী সঞ্চয় ব্যাংক আইন, ২০১৪.
+law_id: 1150, title: পার্বত্য চট্টগ্রাম উন্নয়ন বোর্ড আইন, ২০১৪.
+law_id: 1148, title: বাংলাদেশ সাংবাদিক কল্যাণ ট্রাস্ট আইন, ২০১৪.
+law_id: 1152, title: ইনভেস্টমেন্ট কর্পোরেশন অব বাংলাদেশ আইন, ২০১৪.
+law_id: 1151, title: ডিঅক্সিরাইবোনিউক্লিক এসিড (ডিএনএ) আইন, ২০১৪.
+law_id: 1153, title: উপানুষ্ঠানিক শিক্ষা আইন, ২০১৪.
+law_id: 1154, title: বাংলাদেশ হোটেল ও রেস্তোরাঁ আইন, ২০১৪.
+law_id: 1155, title: রাজশাহী কৃষি উন্নয়ন ব্যাংক আইন, ২০১৪.
+law_id: 1157, title: বাংলাদেশ জ্বালানি ও বিদ্যুৎ গবেষণা কাউন্সিল আইন, ২০১৫.
+law_id: 1156, title: মেট্রোরেল আইন, ২০১৫.
+law_id: 1158, title: ফরমালিন নিয়ন্ত্রণ আইন, ২০১৫.
+law_id: 1160, title: বাংলাদেশ ওশানোগ্রাফিক রিসার্চ ইনস্টিটিউট আইন, ২০১৫.
+law_id: 1159, title: সরকারি যানবাহন (ব্যবহার নিয়ন্ত্রণ) আইন, ২০১৫.
+law_id: 1161, title: যুব সংগঠন (নিবন্ধন এবং পরিচালনা) আইন, ২০১৫.
+law_id: 1162, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১৫.
+law_id: 1163, title: অর্থ আইন, ২০১৫.
+law_id: 1164, title: নির্দিষ্টকরণ আইন, ২০১৫.
+law_id: 1166, title: খুলনা কৃষি বিশ্ববিদ্যালয় আইন, ২০১৫.
+law_id: 1167, title: রপ্তানি উন্নয়ন ব্যুরো আইন, ২০১৫.
+law_id: 1168, title: ইন্টারন্যাশনাল ফিনান্স কর্পোরেশন আইন, ২০১৫.
+law_id: 1169, title: ফাইনান্সিয়াল রিপোর্টিং আইন, ২০১৫.
+law_id: 1165, title: পারমাণবিক বিদ্যুৎ কেন্দ্র আইন, ২০১৫.
+law_id: 1170, title: বাংলাদেশ সরকারি-বেসরকারি অংশীদারিত্ব আইন, ২০১৫.
+law_id: 1171, title: উন্নয়ন সারচার্জ ও লেভী (আরোপ ও আদায়) আইন, ২০১৫.
+law_id: 1172, title: গণকর্মচারী (বিদেশি নাগরিকের সহিত বিবাহ) আইন, ২০১৫.
+law_id: 1175, title: উদ্বৃত্ত সরকারি কর্মচারি আত্তীকরণ আইন, ২০১৬.
+law_id: 1173, title: বাংলাদেশ চা শ্রমিক কল্যাণ তহবিল আইন, ২০১৬.
+law_id: 1174, title: রেলওয়ে নিরাপত্তা বাহিনী আইন, ২০১৬.
+law_id: 1177, title: এশিয়ান ইনফ্রাস্ট্রাকচার ইনভেস্টমেন্ট ব্যাংক আইন, ২০১৬.
+law_id: 1178, title: পায়রা বন্দর প্রকল্প (ভূমি অধিগ্রহণ) আইন, ২০১৬.
+law_id: 1176, title: বঙ্গবন্ধু বিজ্ঞান ও প্রযুক্তি ফেলোশিপ ট্রাস্ট আইন, ২০১৬.
+law_id: 1179, title: কক্সবাজার উন্নয়ন কর্তৃপক্ষ আইন, ২০১৬.
+law_id: 1181, title: বাংলাদেশ কোস্ট গার্ড আইন, ২০১৬.
+law_id: 1180, title: বাংলাদেশ পেট্রোলিয়াম কর্পোরেশন আইন, ২০১৬.
+law_id: 1183, title: চট্টগ্রাম মেডিকেল বিশ্ববিদ্যালয় আইন, ২০১৬.
+law_id: 1182, title: প্রতিরক্ষা কর্মবিভাগ (সর্বাধিনায়কতা) আইন, ২০১৬.
+law_id: 1184, title: রাজশাহী মেডিকেল বিশ্ববিদ্যালয় আইন, ২০১৬.
+law_id: 1185, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১৬.
+law_id: 1186, title: অর্থ আইন, ২০১৬.
+law_id: 1187, title: নির্দিষ্টকরণ আইন, ২০১৬.
+law_id: 1190, title: পেট্রোলিয়াম আইন, ২০১৬.
+law_id: 1189, title: বঙ্গবন্ধু শেখ মুজিবুর রহমান ডিজিটাল ইউনিভার্সিটি, বাংলাদেশ আইন, ২০১৬.
+law_id: 1191, title: যুবকল্যাণ তহবিল আইন, ২০১৬.
+law_id: 1188, title: রবীন্দ্র বিশ্ববিদ্যালয়, বাংলাদেশ আইন, ২০১৬.
+law_id: 1195, title: চা আইন, ২০১৬.
+law_id: 1194, title: বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ আইন, ২০১৬.
+law_id: 1192, title: বাংলাদেশ সেতু কর্তৃপক্ষ আইন, ২০১৬.
+law_id: 1193, title: রেলওয়ে সম্পত্তি (অবৈধ দখল উদ্ধার) আইন, ২০১৬.
+law_id: 1197, title: বৈদেশিক অনুদান (স্বেচ্ছাসেবামূলক কার্যক্রম) রেগুলেশন আইন, ২০১৬.
+law_id: 1196, title: রাষ্ট্রপতির অবসরভাতা, আনুতোষিক ও অন্যান্য সুবিধা আইন, ২০১৬.
+law_id: 1199, title: বঙ্গবন্ধু জাতীয় কৃষি পুরস্কার ট্রাস্ট আইন, ২০১৬.
+law_id: 1200, title: বাংলাদেশ নার্সিং ও মিডওয়াইফারি কাউন্সিল আইন, ২০১৬.
+law_id: 1198, title: বাংলাদেশ ন্যাশনাল ক্যাডেট কোর আইন, ২০১৬.
+law_id: 1201, title: বাস র‍্যাপিড ট্রানজিট (বিআরটি) আইন, ২০১৬.
+law_id: 1202, title: ক্যাডেট কলেজ আইন, ২০১৭.
+law_id: 1206, title: পাট আইন, ২০১৭.
+law_id: 1203, title: বাংলাদেশ জীববৈচিত্র্য আইন, ২০১৭.
+law_id: 1205, title: বাংলাদেশ পল্লী উন্নয়ন একাডেমি আইন, ২০১৭.
+law_id: 1204, title: বেসামরিক বিমান চলাচল কর্তৃপক্ষ আইন, ২০১৭.
+law_id: 1208, title: বাংলাদেশ উন্নয়ন গবেষণা প্রতিষ্ঠান আইন, ২০১৭.
+law_id: 1207, title: বাল্যবিবাহ নিরোধ আইন, ২০১৭.
+law_id: 1209, title: বাংলাদেশ অ্যাক্রেডিটেশন কাউন্সিল আইন, ২০১৭.
+law_id: 1210, title: বাংলাদেশ শিপিং কর্পোরেশন আইন, ২০১৭.
+law_id: 1212, title: বাংলাদেশ কৃষি গবেষণা ইনস্টিটিউট (বারি) আইন, ২০১৭.
+law_id: 1211, title: বাংলাদেশ পরমাণু কৃষি গবেষণা ইনস্টিটিউট (বিনা) আইন, ২০১৭.
+law_id: 1213, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১৭.
+law_id: 1214, title: অর্থ আইন, ২০১৭.
+law_id: 1215, title: নির্দিষ্টকরণ আইন, ২০১৭.
+law_id: 1219, title: বাংলাদেশ ধান গবেষণা ইনস্টিটিউট আইন, ২০১৭.
+law_id: 1216, title: বাংলাদেশ পাট গবেষণা ইনস্টিটিউট আইন, ২০১৭.
+law_id: 1217, title: বাংলাদেশ সড়ক পরিবহণ কর্তৃপক্ষ আইন, ২০১৭.
+law_id: 1218, title: বেসামরিক বিমান চলাচল আইন, ২০১৭.
+law_id: 1220, title: স্থাবর সম্পত্তি অধিগ্রহণ ও হুকুমদখল আইন, ২০১৭.
+law_id: 1221, title: বাংলাদেশ গম ও ভুট্টা গবেষণা ইনস্টিটিউট আইন, ২০১৭.
+law_id: 1222, title: বাংলাদেশ পরমাণু শক্তি কমিশন আইন, ২০১৭.
+law_id: 1223, title: বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০১৭.
+law_id: 1226, title: কৃষি কাজে ভূগর্ভস্থ পানি ব্যবস্থাপনা আইন, ২০১৮.
+law_id: 1224, title: বাংলাদেশ কলেজ অব ফিজিশিয়ানস্ এন্ড সার্জনস্ আইন, ২০১৮.
+law_id: 1227, title: বীজ আইন, ২০১৮.
+law_id: 1225, title: রাজশাহী উন্নয়ন কর্তৃপক্ষ আইন, ২০১৮.
+law_id: 1231, title: ওয়ান স্টপ সার্ভিস আইন, ২০১৮.
+law_id: 1229, title: বাংলাদেশ জাহাজ পুনঃপ্রক্রিয়াজাতকরণ আইন, ২০১৮.
+law_id: 1228, title: বিদ্যুৎ আইন, ২০১৮.
+law_id: 1230, title: শেখ হাসিনা বিশ্ববিদ্যালয় আইন, ২০১৮.
+law_id: 1232, title: কবি নজরুল ইনস্টিটিউট আইন, ২০১৮.
+law_id: 1234, title: জাতীয় যুব উন্নয়ন ইনস্টিটিউট আইন, ২০১৮.
+law_id: 1233, title: প্রতিরক্ষা-বাহিনীসমূহের প্রধানদের (নিয়োগ, বেতন, ভাতা এবং অন্যান্য সুবিধা) আইন, ২০১৮.
+law_id: 1235, title: বাংলাদেশ পল্লী উন্নয়ন বোর্ড আইন, ২০১৮.
+law_id: 1237, title: খ্রিস্টান ধর্মীয় কল্যাণ ট্রাস্ট আইন, ২০১৮.
+law_id: 1238, title: গাজীপুর মহানগরী পুলিশ আইন, ২০১৮.
+law_id: 1236, title: বৌদ্ধ ধর্মীয় কল্যাণ ট্রাস্ট আইন, ২০১৮.
+law_id: 1239, title: রংপুর মহানগরী পুলিশ আইন, ২০১৮.
+law_id: 1241, title: অর্থ আইন, ২০১৮.
+law_id: 1240, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১৮.
+law_id: 1242, title: নির্দিষ্টকরণ আইন, ২০১৮.
+law_id: 1245, title: Sugar (Road Development Cess) (রহিতকরণ) আইন, ২০১৮.
+law_id: 1247, title: আবহাওয়া আইন, ২০১৮.
+law_id: 1248, title: ওয়েজ আর্নার্স কল্যাণ বোর্ড আইন, ২০১৮.
+law_id: 1246, title: ক্যান্টনমেন্ট আইন, ২০১৮.
+law_id: 1250, title: খুলনা উন্নয়ন কর্তৃপক্ষ আইন, ২০১৮.
+law_id: 1249, title: চট্টগ্রাম উন্নয়ন কর্তৃপক্ষ আইন, ২০১৮.
+law_id: 1251, title: প্রেস ইনস্টিটিউট বাংলাদেশ (পিআইবি) আইন, ২০১৮.
+law_id: 1244, title: বাংলাদেশ শিল্প প্রতিষ্ঠান জাতীয়করণ আইন, ২০১৮.
+law_id: 1243, title: বালাইনাশক (পেস্টিসাইডস) আইন, ২০১৮.
+law_id: 1259, title: কৃষি বিপণন আইন, ২০১৮.
+law_id: 1260, title: জাতীয় দক্ষতা উন্নয়ন কর্তৃপক্ষ আইন, ২০১৮.
+law_id: 1257, title: জাতীয় পরিকল্পনা ও উন্নয়ন একাডেমি আইন, ২০১৮.
+law_id: 1255, title: বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব মেডিকেল বিশ্ববিদ্যালয়, সিলেট আইন, ২০১৮.
+law_id: 1253, title: বরেন্দ্র বহুমুখী উন্নয়ন কর্তৃপক্ষ আইন, ২০১৮.
+law_id: 1254, title: বস্ত্র আইন, ২০১৮.
+law_id: 1252, title: বাংলাদেশ কৃষি উন্নয়ন কর্পোরেশন আইন, ২০১৮.
+law_id: 1256, title: যৌতুক নিরোধ আইন, ২০১৮.
+law_id: 1258, title: হিন্দুধর্মীয় কল্যাণ ট্রাস্ট আইন, ২০১৮.
+law_id: 1267, title: কমিউনিটি ক্লিনিক স্বাস্থ্য সহায়তা ট্রাস্ট আইন, ২০১৮.
+law_id: 1264, title: জাতীয় ক্রীড়া পরিষদ আইন, ২০১৮.
+law_id: 1261, title: ডিজিটাল নিরাপত্তা আইন, ২০১৮.
+law_id: 1265, title: পণ্য উৎপাদনশীল রাষ্ট্রায়ত্ত শিল্প প্রতিষ্ঠান শ্রমিক (চাকরির শর্তাবলী) আইন, ২০১৮.
+law_id: 1266, title: বাংলাদেশ মুক্তিযোদ্ধা কল্যাণ ট্রাস্ট আইন, ২০১৮.
+law_id: 1262, title: সড়ক পরিবহণ আইন, ২০১৮.
+law_id: 1263, title: ‘আল-হাইআতুল উলয়া লিল-জামি’আতিল কওমিয়া বাংলাদেশ’ এর অধীন ‘কওমি মাদরাসাসমূহের দাওরায়ে হাদিস (তাকমীল)-এর সনদকে মাস্টার্স ডিগ্রি (ইসলামিক স্টাডিজ ও আরবি)-এর সমমান প্রদান আইন, ২০১৮’.
+law_id: 1270, title: ওজন ও পরিমাপ মানদণ্ড আইন, ২০১৮.
+law_id: 1283, title: কস্ট এন্ড ম্যানেজমেন্ট অ্যাকাউন্ট্যান্টস আইন, ২০১৮.
+law_id: 1275, title: জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড আইন, ২০১৮.
+law_id: 1279, title: বাংলাদেশ কারিগরি শিক্ষা বোর্ড আইন, ২০১৮.
+law_id: 1268, title: বাংলাদেশ প্রাণিসম্পদ গবেষণা ইনস্টিটিউট আইন, ২০১৮.
+law_id: 1282, title: বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট আইন, ২০১৮.
+law_id: 1284, title: বাংলাদেশ রিহ্যাবিলিটেশন কাউন্সিল আইন, ২০১৮.
+law_id: 1277, title: বাংলাদেশ লোক-প্রশাসন প্রশিক্ষণ কেন্দ্র আইন, ২০১৮.
+law_id: 1272, title: বাংলাদেশ শিশু একাডেমি আইন, ২০১৮.
+law_id: 1278, title: বাংলাদেশ সংবাদ সংস্থা আইন, ২০১৮.
+law_id: 1280, title: বাংলাদেশ স্ট্যান্ডার্ডস এন্ড টেস্টিং ইনস্টিটিউশন আইন, ২০১৮.
+law_id: 1276, title: মাদকদ্রব্য নিয়ন্ত্রণ আইন, ২০১৮.
+law_id: 1273, title: মানসিক স্বাস্থ্য আইন, ২০১৮.
+law_id: 1281, title: মৎস্য সঙ্গনিরোধ আইন, ২০১৮.
+law_id: 1274, title: সংক্রামক রোগ (প্রতিরোধ, নিয়ন্ত্রণ ও নির্মূল) আইন, ২০১৮.
+law_id: 1271, title: সরকারি চাকরি আইন, ২০১৮.
+law_id: 1269, title: হাউজিং এন্ড বিল্ডিং রিসার্চ ইনস্টিটিউট আইন, ২০১৮.
+law_id: 1286, title: বঙ্গবন্ধু শেখ মুজিবুর রহমান অ্যাভিয়েশন অ্যান্ড অ্যারোস্পেস বিশ্ববিদ্যালয় আইন, ২০১৯.
+law_id: 1285, title: বাংলাদেশ ইপিজেড শ্রম আইন, ২০১৯.
+law_id: 1287, title: উদ্ভিদের জাত সংরক্ষণ আইন, ২০১৯.
+law_id: 1288, title: বাংলাদেশ জাতীয় সমাজকল্যাণ পরিষদ আইন, ২০১৯.
+law_id: 1289, title: বীমা কর্পোরেশন আইন, ২০১৯.
+law_id: 1290, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১৯.
+law_id: 1291, title: নির্দিষ্টকরণ আইন, ২০১৯.
+law_id: 1292, title: প্রাণিকল্যাণ আইন, ২০১৯.
+law_id: 1293, title: বাংলাদেশ ভেটেরিনারি কাউন্সিল আইন, ২০১৯.
+law_id: 1297, title: বাংলাদেশ শিল্প কারিগরি সহায়তা কেন্দ্র (বিটাক) আইন, ২০১৯.
+law_id: 1294, title: বাংলাদেশ সুগারক্রপ গবেষণা ইনস্টিটিউট আইন, ২০১৯.
+law_id: 1296, title: বাংলাদেশের পতাকাবাহী জাহাজ (স্বার্থরক্ষা) আইন, ২০১৯.
+law_id: 1306, title: বাংলাদেশ ট্যারিফ কমিশন (সংশোধন) আইন, ২০২০.
+law_id: 1307, title: ভোটার তালিকা (সংশোধন) আইন, ২০২০.
+law_id: 1298, title: বাংলাদেশ ক্রীড়া শিক্ষা প্রতিষ্ঠান আইন, ২০২০.
+law_id: 1299, title: স্বায়ত্তশাসিত, আধা-স্বায়ত্তশাসিত, সংবিধিবদ্ধ সরকারি কর্তৃপক্ষ, পাবলিক নন-ফাইন্যানশিয়াল কর্পোরেশনসহ স্ব-শাসিত সংস্থাসমূহের তহবিলের উদ্বৃত্ত অর্থ সরকারি কোষাগারে জমা প্রদান আইন, ২০২০.
+law_id: 1301, title: বাংলাদেশ বাতিঘর আইন, ২০২০.
+law_id: 1300, title: বাংলাদেশ সড়ক পরিবহণ কর্পোরেশন আইন, ২০২০.
+law_id: 1308, title: কোম্পানী (সংশোধন) আইন, ২০২০.
+law_id: 1303, title: অর্থ আইন, ২০২০.
+law_id: 1302, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০২০.
+law_id: 1304, title: নির্দিষ্টকরণ আইন, ২০২০.
+law_id: 1309, title: Bangladesh Bank (Amendment) Act, 2020.
+law_id: 1305, title: আদালত কর্তৃক তথ্য-প্রযুক্তি ব্যবহার আইন, ২০২০.
+law_id: 1323, title: গাজীপুর উন্নয়ন কর্তৃপক্ষ আইন, ২০২০.
+law_id: 1333, title: চাঁদপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০২০.
+law_id: 1339, title: বঙ্গবন্ধু শেখ মুজিবুর রহমান বিশ্ববিদ্যালয়, কিশোরগঞ্জ আইন, ২০২০.
+law_id: 1327, title: বাংলাদেশ প্রকৌশল গবেষণা কাউন্সিল আইন, ২০২০.
+law_id: 1331, title: বাংলাদেশ রেফারেন্স ইনস্টিটিউট ফর কেমিক্যাল মেজারমেন্টস্ আইন, ২০২০.
+law_id: 1341, title: হবিগঞ্জ কৃষি বিশ্ববিদ্যালয় আইন, ২০২০.
+law_id: 1349, title: আকাশপথে পরিবহণ (মন্ট্রিল কনভেনশন) আইন, ২০২০.
+law_id: 1353, title: কোম্পানী (দ্বিতীয় সংশোধন) আইন, ২০২০.
+law_id: 1351, title: নারী ও শিশু নির্যাতন দমন (সংশোধন) আইন, ২০২০.
+law_id: 1354, title: বাংলাদেশ এনার্জি রেগুলেটরি কমিশন (সংশোধন) আইন, ২০২০.
+law_id: 1352, title: বাংলাদেশ মাদ্রাসা শিক্ষা বোর্ড আইন, ২০২০.
+law_id: 1355, title: মাদকদ্রব্য নিয়ন্ত্রণ (সংশোধন) আইন, ২০২০.
+law_id: 1348, title: মৎস্য ও মৎস্যপণ্য (পরিদর্শন ও মান নিয়ন্ত্রণ) আইন, ২০২০.
+law_id: 1347, title: সামুদ্রিক মৎস্য (Marine Fisheries) আইন, ২০২০.
+law_id: 1350, title: সুনামগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০২০.
+law_id: 1366, title: Intermediate and Secondary Education (Amendment) Act, 2021.
+law_id: 1367, title: বাংলাদেশ কারিগরি শিক্ষা বোর্ড (সংশোধন) আইন, ২০২১.
+law_id: 1368, title: বাংলাদেশ মাদ্রাসা শিক্ষাবোর্ড (সংশোধন) আইন, ২০২১.
+law_id: 1370, title: The Civil Courts (Amendment) Act, 2021.
+law_id: 1369, title: বাংলাদেশ ট্রাভেল এজেন্সি (নিবন্ধন ও নিয়ন্ত্রণ) (সংশোধন) আইন, ২০২১.
+law_id: 1371, title: শেখ হাসিনা মেডিক্যাল বিশ্ববিদ্যালয়, খুলনা, আইন, ২০২১.
+law_id: 1373, title: আয়োডিনযুক্ত লবণ আইন, ২০২১.
+law_id: 1372, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০২১.
+law_id: 1375, title: শিশু দিবাযত্ন কেন্দ্র আইন, ২০২১.
+law_id: 1374, title: হজ ও ওমরাহ ব্যবস্থাপনা আইন, ২০২১.
+law_id: 1376, title: অর্থ আইন, ২০২১.
+law_id: 1377, title: নির্দিষ্টকরণ আইন, ২০২১.
+law_id: 1378, title: বাংলাদেশ চলচ্চিত্র শিল্পী কল্যাণ ট্রাস্ট আইন, ২০২১.
+law_id: 1381, title: Bangladesh Legal Practitioners and Bar Council (Amendment) Act, 2021.
+law_id: 1380, title: গান্ধী আশ্রম (ট্রাস্টি বোর্ড) আইন, ২০২১.
+law_id: 1379, title: জাতীয় সংসদের নির্বাচনি এলাকার সীমানা নির্ধারণ আইন, ২০২১.
+law_id: 1382, title: Medical Colleges (Governing Bodies) (Repeal) Act, 2021.
+law_id: 1383, title: Medical Degrees (Repeal) Act, 2021.
+law_id: 1385, title: কুড়িগ্রাম কৃষি বিশ্ববিদ্যালয় আইন, ২০২১.
+law_id: 1386, title: বাংলাদেশ জাতীয় আরকাইভস আইন, ২০২১.
+law_id: 1384, title: বাংলাদেশ শিশু হাসপাতাল ও ইনস্টিটিউট আইন, ২০২১.
+law_id: 1387, title: বিদ্যুৎ ও জ্বালানীর দ্রুত সরবরাহ বৃদ্ধি (বিশেষ বিধান) (সংশোধন) আইন, ২০২১.
+law_id: 1390, title: Bangladesh House Building Finance Corporation (Amendment) Act, 2021.
+law_id: 1394, title: Territorial Waters and Maritime Zones (Amendment) Act, 2021.
+law_id: 1391, title: বাংলাদেশ ট্যুর অপারেটর ও ট্যুর গাইড (নিবন্ধন ও পরিচালনা) আইন, ২০২১.
+law_id: 1395, title: বাংলাদেশ সুপ্রীম কোর্টের বিচারক (পারিতোষিক ও বিশেষাধিকার) আইন, ২০২১.
+law_id: 1396, title: বাংলাদেশ সুপ্রীম কোর্টের বিচারক (ভ্রমণ ভাতা) আইন, ২০২১.
+law_id: 1388, title: বিরোধীদলের নেতা এবং উপনেতা (পারিতোষিক ও বিশেষাধিকার) আইন, ২০২১.
+law_id: 1389, title: বিশেষ নিরাপত্তা বাহিনী (Special Security Force) আইন, ২০২১.
+law_id: 1392, title: ব্যাংকার বহি সাক্ষ্য আইন, ২০২১.
+law_id: 1393, title: মহাসড়ক আইন, ২০২১.
+law_id: 1397, title: প্রধান নির্বাচন কমিশনার ও অন্যান্য নির্বাচন কমিশনার নিয়োগ আইন, ২০২২.
+law_id: 1401, title: বাংলাদেশ পেটেন্ট আইন, ২০২২.
+law_id: 1402, title: বয়লার আইন, ২০২২.
+law_id: 1400, title: স্থানীয় সরকার (পৌরসভা) (সংশোধন) আইন, ২০২২.
+law_id: 1404, title: চট্টগ্রাম বন্দর কর্তৃপক্ষ আইন, ২০২২.
+law_id: 1406, title: জেলা পরিষদ (সংশোধন) আইন, ২০২২.
+law_id: 1398, title: বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়, পিরোজপুর আইন, ২০২২.
+law_id: 1399, title: বাংলাদেশ জাতীয় জাদুঘর আইন, ২০২২.
+law_id: 1405, title: বাণিজ্য সংগঠন আইন, ২০২২.
+law_id: 1403, title: মোংলা বন্দর কর্তৃপক্ষ আইন, ২০২২.
+law_id: 1407, title: Bangladesh Parjatan Corporation (Amendment) Act, 2022.
+law_id: 1408, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০২২.
+law_id: 1409, title: অর্থ আইন, ২০২২.
+law_id: 1410, title: নির্দিষ্টকরণ আইন, ২০২২.
+law_id: 1411, title: জাতীয় মুক্তিযোদ্ধা কাউন্সিল আইন, ২০২২‌.
+law_id: 1412, title: বেসরকারি মেডিকেল কলেজ ও ডেন্টাল কলেজ আইন, ২০২২.
+law_id: 1413, title: সরকারি ঋণ আইন, ২০২২.
+law_id: 1416, title: Evidence (Amendment) Act, 2022.
+law_id: 1417, title: আন্তর্জাতিক উদরাময় গবেষণা কেন্দ্র, বাংলাদেশ, আইন, ২০২২.
+law_id: 1415, title: বাংলাদেশ তেল, গ্যাস ও খনিজসম্পদ কর্পোরেশন আইন, ২০২২.
+law_id: 1414, title: বাংলাদেশ পরমানু শক্তি কমিশন (সংশোধন) আইন, ২০২২.
+law_id: 1418, title: বাংলাদেশ সুপ্রীম কোর্টের বিচারক (ছুটি, পেনশন ও বিশেষাধিকার) আইন, ২০২৩.
+law_id: 1419, title: বাংলাদেশ সরকারী কর্ম কমিশন আইন, ২০২৩.
+law_id: 1423, title: বাংলাদেশ এনার্জি রেগুলেটরী কমিশন (সংশোধন) আইন, ২০২৩.
+law_id: 1420, title: বাংলাদেশ নার্সিং ও মিডওয়াইফারি কাউন্সিল (সংশোধন) আইন, ২০২৩.
+law_id: 1422, title: যাকাত তহবিল ব্যবস্থাপনা আইন, ২০২৩.
+law_id: 1421, title: সর্বজনীন পেনশন ব্যবস্থাপনা আইন, ২০২৩.
+law_id: 1424, title: চট্টগ্রাম শাহী জামে মসজিদ আইন, ২০২৩.
+law_id: 1426, title: বঙ্গবন্ধু শেখ মুজিবুর রহমান বিশ্ববিদ্যালয়, নওগাঁ আইন, ২০২৩.
+law_id: 1425, title: মুজিবনগর বিশ্ববিদ্যালয়, মেহেরপুর আইন, ২০২৩.
+law_id: 1427, title: হাট ও বাজার (স্থাপন ও ব্যবস্থাপনা) আইন, ২০২৩.
+law_id: 1429, title: আয়কর আইন, ২০২৩.
+law_id: 1428, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০২৩.
+law_id: 1431, title: অর্থ আইন, ২০২৩.
+law_id: 1432, title: নির্দিষ্টকরণ আইন, ২০২৩.
+law_id: 1430, title: ব্যাংক-কোম্পানী (সংশোধন) আইন, ২০২৩.
+law_id: 1434, title: Representation of the People (Amendment) Act, 2023.
+law_id: 1433, title: উন্নয়ন বোর্ড আইনসমূহ (রহিতকরণ) আইন, ২০২৩.
+law_id: 1435, title: সরকারি চাকরি (সংশোধন) আইন, ২০২৩.
+law_id: 1441, title: State Acquisition and Tenancy (Amendment) Act, 2023.
+law_id: 1437, title: এজেন্সি টু ইনোভেট (এটুআই) আইন, ২০২৩.
+law_id: 1438, title: খাদ্যদ্রব্য উৎপাদন, মজুত, স্থানান্তর, পরিবহণ, সরবরাহ, বিতরণ ও বিপণন (ক্ষতিকর কার্যক্রম প্রতিরোধ) আইন, ২০২৩.
+law_id: 1439, title: বাংলাদেশ শিল্প-নকশা আইন, ২০২৩.
+law_id: 1436, title: বাংলাদেশ সরকারি-বেসরকারি অংশীদারিত্ব (সংশোধন) আইন, ২০২৩.
+law_id: 1440, title: শেখ রাসেল পল্লী উন্নয়ন একাডেমি, রংপুর আইন, ২০২৩.
+law_id: 1447, title: ঔষধ ও কসমেটিকস্ আইন, ২০২৩.
+law_id: 1452, title: কপিরাইট আইন, ২০২৩.
+law_id: 1458, title: জাতীয় পরিচয় নিবন্ধন আইন, ২০২৩.
+law_id: 1456, title: জাতীয় সংসদ (সংরক্ষিত মহিলা আসন) নির্বাচন (সংশোধন) আইন, ২০২৩.
+law_id: 1444, title: পারিবারিক আদালত আইন, ২০২৩.
+law_id: 1443, title: বাংলাদেশ ক্ষুদ্র ও কুটির শিল্প কর্পোরেশন আইন, ২০২৩.
+law_id: 1448, title: বাংলাদেশ চিকিৎসা শিক্ষা অ্যাক্রেডিটেশন আইন, ২০২৩.
+law_id: 1450, title: বাংলাদেশ পাবলিক প্রকিউরমেন্ট অথরিটি আইন, ২০২৩.
+law_id: 1451, title: বাংলাদেশ বিমান (Bangladesh Biman) (রহিত Bangladesh Biman Order, 1972 পুনর্বহাল এবং সংশোধন) আইন, ২০২৩.
+law_id: 1453, title: বালুমহাল ও মাটি ব্যবস্থাপনা (সংশোধন) আইন, ২০২৩.
+law_id: 1454, title: ভূমি অপরাধ প্রতিরোধ ও প্রতিকার আইন, ২০২৩.
+law_id: 1449, title: ভূমি উন্নয়ন কর আইন, ২০২৩.
+law_id: 1455, title: ভূমি সংস্কার আইন, ২০২৩.
+law_id: 1445, title: শেখ হাসিনা পল্লী উন্নয়ন একাডেমি, জামালপুর আইন, ২০২৩.
+law_id: 1446, title: সরকারি প্রাথমিক বিদ্যালয় শিক্ষক কল্যাণ ট্রাস্ট আইন, ২০২৩.
+law_id: 1457, title: সাইবার নিরাপত্তা আইন, ২০২৩.
+law_id: 1460, title: বাণিজ্য সংগঠন (সংশোধন) আইন, ২০২৩.
+law_id: 1459, title: বৈদেশিক কর্মসংস্থান ও অভিবাসী (সংশোধন) আইন, ২০২৩.
+law_id: 1484, title: আনসার ব্যাটালিয়ন আইন, ২০২৩.
+law_id: 1476, title: কাস্টমস আইন, ২০২৩.
+law_id: 1465, title: চিড়িয়াখানা আইন, ২০২৩.
+law_id: 1479, title: জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়, নারায়ণগঞ্জ আইন, ২০২৩.
+law_id: 1463, title: জাতীয় প্রতিবন্ধী উন্নয়ন ফাউন্ডেশন আইন, ২০২৩.
+law_id: 1474, title: জেলা (পার্বত্য চট্টগ্রাম জেলাসমূহে বলবৎকরণ) আইন, ২০২৩.
+law_id: 1469, title: ঠাকুরগাঁও বিশ্ববিদ্যালয় আইন, ২০২৩.
+law_id: 1477, title: নিউ ডেভেলপমেন্ট ব্যাংক আইন, ২০২৩.
+law_id: 1483, title: পরিত্যক্ত বাড়ি (সম্পূরক বিধানাবলি) আইন, ২০২৩.
+law_id: 1478, title: ফাইন্যান্স কোম্পানি আইন, ২০২৩.
+law_id: 1466, title: বঙ্গবন্ধু শেখ মুজিব মেডিক্যাল বিশ্ববিদ্যালয় (সংশোধন) আইন, ২০২৩.
+law_id: 1470, title: বঙ্গবন্ধু শেখ মুজিব শরীয়তপুর কৃষি বিশ্ববিদ্যালয় আইন, ২০২৩.
+law_id: 1464, title: বাংলাদশে ডেইরি উন্নয়ন বোর্ড আইন, ২০২৩.
+law_id: 1462, title: বাংলাদেশ অর্থনৈতিক অঞ্চল (সংশোধন) আইন, ২০২৩.
+law_id: 1473, title: বাংলাদেশ ইনস্টিটিউট অব ম্যানেজমেন্ট আইন, ২০২৩.
+law_id: 1471, title: বাংলাদেশ চলচ্চিত্র সার্টিফিকেশন আইন, ২০২৩.
+law_id: 1485, title: বাংলাদেশ পুলিশ কল্যাণ তহবিল আইন, ২০২৩.
+law_id: 1472, title: বাংলাদেশ পেটেন্ট আইন, ২০২৩.
+law_id: 1482, title: বাংলাদেশ হোমিওপ্যাথিক চিকিৎসা শিক্ষা আইন, ২০২৩.
+law_id: 1480, title: লক্ষ্মীপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০২৩.
+law_id: 1481, title: সাতক্ষীরা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০২৩.
+law_id: 1467, title: সিলেট উন্নয়ন কর্তৃপক্ষ আইন, ২০২৩.
+law_id: 1475, title: সিলেট মেডিকেল বিশ্ববিদ্যালয় (সংশোধন) আইন, ২০২৩.
+law_id: 1468, title: সুরক্ষিত লেনদেন (অস্থাবর সম্পত্তি) আইন, ২০২৩.
+law_id: 1487, title: অফশোর ব্যাংকিং আইন, ২০২৪.
+law_id: 1486, title: আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০২৪.
+law_id: 1488, title: গ্রাম আদালত (সংশোধন) আইন, ২০২৪.
+law_id: 1489, title: নির্দিষ্টকরণ (সম্পূরক) আইন, ২০২৪.
+law_id: 1490, title: অর্থ আইন, ২০২৪.
+law_id: 1492, title: নির্দিষ্টকরণ আইন, ২০২৪.
+law_id: 1496, title: পরিশোধ ও নিষ্পত্তি ব্যবস্থা আইন, ২০২৪.
+law_id: 1495, title: বাংলাদেশ ট্রেড এন্ড ট্যারিফ কমিশন (সংশোধন) আইন, ২০২৪.
+law_id: 1493, title: স্থানীয় সরকার (ইউনিয়ন পরিষদ) (সংশোধন) আইন, ২০২৪.
+law_id: 1497, title: জাতীয় প্রাথমিক শিক্ষা একাডেমি আইন, ২০২৪.
+law_id: 1494, title: Bangladesh Bank (Amendment) Ordinance, 2024.
+law_id: 1499, title: উপজেলা পরিষদ (সংশোধন) অধ্যাদেশ, ২০২৪.
+law_id: 1498, title: জেলা পরিষদ (সংশোধন) অধ্যাদেশ, ২০২৪.
+law_id: 1501, title: স্থানীয় সরকার (পৌরসভা) (সংশোধন) অধ্যাদেশ, ২০২৪.
+law_id: 1500, title: স্থানীয় সরকার (সিটি কর্পোরেশন) (সংশোধন) অধ্যাদেশ, ২০২৪.
+law_id: 1503, title: বাংলাদেশ এনার্জি রেগুলেটরী কমিশন (সংশোধন) অধ্যাদেশ, ২০২৪.
+law_id: 1502, title: শেখ হাসিনা জাতীয় যুব উন্নয়ন ইনস্টিটিউট (সংশোধন) অধ্যাদেশ, ২০২৪.
+law_id: 1504, title: বিশেষ নিরাপত্তা বাহিনী (Special Security Force) (সংশোধন) অধ্যাদেশ, ২০২৪.
+law_id: 1505, title: জাতির পিতার পরিবার-সদস্যগণের নিরাপত্তা (রহিতকরণ) অধ্যাদেশ, ২০২৪.
+law_id: 1506, title: পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ (সংশোধন) অধ্যাদেশ, ২০২৪.
+law_id: 1508, title: জাতীয় সংসদ সচিবালয় (অন্তর্বর্তীকালীন বিশেষ বিধান) অধ্যাদেশ, ২০২৪.
+law_id: 1509, title: বৈদেশিক কর্মসংস্থান ও অভিবাসী (সংশোধন) অধ্যাদেশ, ২০২৪.
+law_id: 1507, title: সরকারি, স্বায়ত্তশাসিত, আধা-স্বায়ত্তশাসিত, সংবিধিবদ্ধ সরকারি কর্তৃপক্ষ, পাবলিক নন-ফাইন্যানসিয়াল কর্পোরেশনসহ স্ব-শাসিত সংস্থাসমূহে সরাসরি নিয়োগের ক্ষেত্রে সর্বোচ্চ বয়সসীমা নির্ধারণ অধ্যাদেশ, ২০২৪.
+law_id: 1510, title: International Crimes (Tribunals) (Amendment) Ordinance, 2024.
+law_id: 1511, title: বিদ্যুৎ ও জ্বালানীর দ্রুত সরবরাহ বৃদ্ধি (বিশেষ বিধান) (রহিতকরণ) অধ্যাদেশ, ২০২৪.
+law_id: 1513, title: Bangladesh Law Officers (Amendment) Ordinance, 2024.
+law_id: 1512, title: জাতীয় মানবাধিকার কমিশন (সংশোধন) অধ্যাদেশ, ২০২৪.
+law_id: 1515, title: The Excises and Salt (Amendment) Ordinance, 2025.
+law_id: 1514, title: মূল্য সংযোজন কর ও সম্পূরক শুল্ক (সংশোধন) অধ্যাদেশ, ২০২৫.
+law_id: 638, title: The Bangladesh Rural Development Board Ordinance, 1982.
+law_id: 367, title: The Constitution of the People‌‌‍’s Republic of Bangladesh.
+law_id: 652, title: The Local Government (Union Parishads) Ordinance, 1983.
+law_id: 698, title: The Special Security Force Ordinance, 1986.

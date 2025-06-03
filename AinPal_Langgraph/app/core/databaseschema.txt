@@ -1,0 +1,14 @@
+Node properties:
+Law {description: STRING, embedding: LIST, title: STRING, subtitle: STRING, law_id: INTEGER, publication_date: STRING, formatted_date: STRING, has_chapters: BOOLEAN, has_parts: BOOLEAN, preamble: STRING}
+Section {section_number: STRING, markdown_text: STRING, embedding_text: STRING, parent_law_id: INTEGER, inter_act_links: STRING, headline: STRING, section_key: STRING, chapter_title: STRING, chapter_number: STRING, sub_chapter: STRING, part_title: STRING, part_number: STRING}
+Chunk {embedding: LIST, section_number: STRING, chunk_index: INTEGER, chunk_text: STRING, law_id: INTEGER, chunk_id: STRING, law_title: STRING, headline: STRING}
+Footnote {text: STRING, id: STRING, number: STRING}
+Relationship properties:
+
+The relationships:
+(:Law)-[:HAS_SECTION]->(:Section)
+(:Section)-[:NEXT_SECTION]->(:Section)
+(:Chunk)-[:PART_OF]->(:Section)
+(:Chunk)-[:NEXT_CHUNK]->(:Chunk)
+(:Footnote)-[:FOOT_OF]->(:Law)
+(:Footnote)-[:NEXT_FOOTNOTE]->(:Footnote)
