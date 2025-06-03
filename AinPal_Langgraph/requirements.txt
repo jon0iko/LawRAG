@@ -1,5 +1,22 @@
-fastapi
-uvicorn
-langgraph
-pydantic
-httpx
+# Core dependencies
+langchain>=0.1.0
+langchain-core>=0.1.47
+langgraph>=0.0.20
+openai>=1.5.0
+tiktoken>=0.5.0
+
+# Database connectivity
+neo4j>=5.10.0
+
+# Language model integrations
+langchain-openai>=0.0.1
+langchain-ollama>=0.0.1
+
+# Environment and utilities
+python-dotenv>=1.0.0
+httpx>=0.24.0
+numpy>=1.24.0
+
+# Web framework (if running as an API)
+fastapi>=0.100.0
+uvicorn>=0.22.0
