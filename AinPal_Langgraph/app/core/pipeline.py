@@ -1,12 +1,5 @@
-# the query String
-query = "What is the rule for naming plants in Bangladesh?"
-
-
-
-
-
 # Define the maximum number of allowed tool calls
-MAX_TOOL_CALLS = 5
+MAX_TOOL_CALLS = 7
 
 
 
@@ -82,7 +75,7 @@ load_dotenv()
 
 # --- Constants & Configuration ---
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-NEO4J_URI = os.getenv("NEO4J_URI", "neo4j://localhost:7999")
+NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
 NEO4J_USER = os.getenv("NEO4J_USERNAME")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
@@ -104,7 +97,10 @@ neo4j_conn: Optional[Neo4jConnection] = None
 if NEO4J_USER and NEO4J_PASSWORD:  # Basic check for credentials
     try:
         neo4j_conn = Neo4jConnection(uri=NEO4J_URI, user=NEO4J_USER, password=NEO4J_PASSWORD)
-        print("Neo4j connection object created. Connectivity will be tested on first query/explicit test.")
+        print("Neo4j connection object created.")
+        # Test connection by running a simple query
+        neo4j_conn.query("MATCH (n) RETURN n LIMIT 1")
+        print("Successfully connected to Neo4j database.")
     except Exception as e:
         print(f"Failed to initialize Neo4j connection object: {e}")
         neo4j_conn = None
@@ -547,7 +543,6 @@ def combine_results_and_evaluate_node(state: AgentState) -> AgentState:
     if not state['retrieved_law_texts'] and not state['cypher_query_results']:
         state['evaluation_result'] = "insufficient"
         state['final_answer'] = "No relevant laws found."
-        print("No relevant laws found. Evaluation result set to insufficient.")
         return state
 
     # Combine retrieved texts into a final answer
@@ -643,67 +638,145 @@ graph.set_entry_point("reasoning_agent")
 
 # db_path = os.path.join(os.path.dirname(__file__), "temp_graph_checkpoint.db")
 
-with SqliteSaver.from_conn_string(":memory:") as checkpointer:
-    app = graph.compile(checkpointer=checkpointer)
-    thread = {"configurable": {"thread_id": "4"}}
-    query = [HumanMessage(content=query)]
+# with SqliteSaver.from_conn_string(":memory:") as checkpointer:
+#     app = graph.compile(checkpointer=checkpointer)
+#     thread = {"configurable": {"thread_id": "4"}}
+#     query = [HumanMessage(content=query)]
 
-    print("\n=== Starting Graph Execution ===\n")
+#     print("\n=== Starting Graph Execution ===\n")
 
-    try:
-        for event in app.stream({"messages": query}, thread):
-            # Print the event type/name if available
-            if hasattr(event, 'get') and callable(event.get):
-                print(f"\n--- Step: {event.get('name', 'Unknown')} ---")
-            else:
-                print("\n--- New Event ---")
+#     try:
+#         for event in app.stream({"messages": query}, thread):
+#             # Print the event type/name if available
+#             if hasattr(event, 'get') and callable(event.get):
+#                 print(f"\n--- Step: {event.get('name', 'Unknown')} ---")
+#             else:
+#                 print("\n--- New Event ---")
             
-            # Print the event structure to understand what's available
-            print(f"Event keys: {list(event.keys()) if hasattr(event, 'keys') else 'No keys'}")
+#             # Print the event structure to understand what's available
+#             print(f"Event keys: {list(event.keys()) if hasattr(event, 'keys') else 'No keys'}")
             
-            # Safely process the event
-            if isinstance(event, dict):
-                for k, v in event.items():
-                    if k == "state" or k == "name":
-                        continue
+#             # Safely process the event
+#             if isinstance(event, dict):
+#                 for k, v in event.items():
+#                     if k == "state" or k == "name":
+#                         continue
                     
-                    print(f"\n--- Processing: {k} ---")
+#                     print(f"\n--- Processing: {k} ---")
                     
-                    if isinstance(v, dict) and "messages" in v:
-                        print("\nMessages:")
-                        for msg in v["messages"]:
-                            if isinstance(msg, HumanMessage):
-                                print(f"Human: {msg.content}")
-                            elif isinstance(msg, AIMessage):
-                                print(f"AI: {msg.content}")
-                                if hasattr(msg, "tool_calls") and msg.tool_calls:
-                                    print(f"  Tool Calls: {len(msg.tool_calls)}")
-                                    for tool_call in msg.tool_calls:
-                                        print(f"    - {tool_call['name']}: {tool_call['args']}")
-                            elif isinstance(msg, SystemMessage):
-                                print(f"System: {msg.content[:50]}...")
-                            elif isinstance(msg, ToolMessage):
-                                print(f"Tool: {msg.content[:100]}...")
-                            else:
-                                print(f"Other ({type(msg).__name__}): {msg}")
+#                     if isinstance(v, dict) and "messages" in v:
+#                         print("\nMessages:")
+#                         for msg in v["messages"]:
+#                             if isinstance(msg, HumanMessage):
+#                                 print(f"Human: {msg.content}")
+#                             elif isinstance(msg, AIMessage):
+#                                 print(f"AI: {msg.content}")
+#                                 if hasattr(msg, "tool_calls") and msg.tool_calls:
+#                                     print(f"  Tool Calls: {len(msg.tool_calls)}")
+#                                     for tool_call in msg.tool_calls:
+#                                         print(f"    - {tool_call['name']}: {tool_call['args']}")
+#                             elif isinstance(msg, SystemMessage):
+#                                 print(f"System: {msg.content[:50]}...")
+#                             elif isinstance(msg, ToolMessage):
+#                                 print(f"Tool: {msg.content[:100]}...")
+#                             else:
+#                                 print(f"Other ({type(msg).__name__}): {msg}")
                     
-                    if isinstance(v, dict):
-                        if "retrieved_law_texts" in v and v["retrieved_law_texts"]:
-                            print(f"\nRetrieved {len(v['retrieved_law_texts'])} law texts")
+#                     if isinstance(v, dict):
+#                         if "retrieved_law_texts" in v and v["retrieved_law_texts"]:
+#                             print(f"\nRetrieved {len(v['retrieved_law_texts'])} law texts")
                             
-                        if "final_answer" in v and v["final_answer"]:
-                            print(f"\nFinal Answer available: {len(v['final_answer'])} chars")
+#                         if "final_answer" in v and v["final_answer"]:
+#                             print(f"\nFinal Answer available: {len(v['final_answer'])} chars")
                             
-                        if "error_message" in v and v["error_message"]:
-                            print(f"\nError: {v['error_message']}")
-            else:
-                print(f"Event is not a dictionary: {type(event)}")
-    except Exception as e:
-        print(f"\n=== Error during execution: {e} ===\n")
-    finally:
-        print("\n=== Graph Execution Completed ===\n")
-        print(f"\n=== Token Usage Statistics ===")
-        print(f"Input tokens: {input_tokens}")
-        print(f"Output tokens: {output_tokens}")
-        print(f"Total tokens: {input_tokens + output_tokens}")
-        print("===============================")
+#                         if "error_message" in v and v["error_message"]:
+#                             print(f"\nError: {v['error_message']}")
+#             else:
+#                 print(f"Event is not a dictionary: {type(event)}")
+#     except Exception as e:
+#         print(f"\n=== Error during execution: {e} ===\n")
+#     finally:
+#         print("\n=== Graph Execution Completed ===\n")
+#         print(f"\n=== Token Usage Statistics ===")
+#         print(f"Input tokens: {input_tokens}")
+#         print(f"Output tokens: {output_tokens}")
+#         print(f"Total tokens: {input_tokens + output_tokens}")
+#         print("===============================")
+
+
+def run_conversation():
+    """Run a multi-turn conversation with the user."""
+    with SqliteSaver.from_conn_string(":memory:") as checkpointer:
+        app = graph.compile(checkpointer=checkpointer)
+        thread = {"configurable": {"thread_id": "4"}}
+        
+        # Initialize conversation history
+        conversation_history = []
+        
+        print("\n=== Starting AinPal Conversation ===")
+        print("Type 'exit' or 'quit' to end the conversation\n")
+        
+        while True:
+            # Get user input
+            user_query = input("\nYou: ").strip()
+            
+            # Check for exit command
+            if user_query.lower() in ['exit', 'quit', 'bye', 'goodbye']:
+                print("\nAI: Thank you for using AinPal. Goodbye!")
+                break
+            
+            # Skip empty queries
+            if not user_query:
+                print("Please enter a query.")
+                continue
+            
+            # Create a new human message
+            human_message = HumanMessage(content=user_query)
+            
+            # Add to conversation history
+            current_messages = conversation_history + [human_message]
+            
+            print("\n=== Processing Query... ===\n")
+            
+            try:
+                # Reset token counters for this turn
+                global input_tokens, output_tokens
+                input_tokens = 0
+                output_tokens = 0
+                
+                # Get the final state from the graph execution
+                final_state = None
+                
+                for event in app.stream({"messages": current_messages}, thread):
+                    if isinstance(event, dict) and "state" in event:
+                        final_state = event["state"]
+                
+                # Extract the AI's response from the final state
+                if final_state and "messages" in final_state and final_state["messages"]:
+                    ai_messages = [msg for msg in final_state["messages"] if isinstance(msg, AIMessage)]
+                    
+                    if ai_messages:
+                        # Get the last AI message
+                        ai_response = ai_messages[-1]
+                        print(f"\nAI: {ai_response.content}")
+                        
+                        # Add to conversation history
+                        conversation_history.append(human_message)
+                        conversation_history.append(ai_response)
+                        
+                        # Keep conversation history to a reasonable size
+                        if len(conversation_history) > 10:
+                            # Keep only the last 5 turns (10 messages)
+                            conversation_history = conversation_history[-10:]
+                    else:
+                        print("\nAI: I couldn't generate a response. Please try again.")                    
+                
+                # Print token usage
+                print(f"\n[Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}]")
+                
+            except Exception as e:
+                print(f"\n=== Error during execution: {e} ===")
+                print("Let's continue with a new query.")
+
+if __name__ == "__main__":
+    run_conversation()
