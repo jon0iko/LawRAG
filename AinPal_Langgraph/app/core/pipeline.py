@@ -569,34 +569,28 @@ def combine_results_and_evaluate_node(state: AgentState) -> AgentState:
 
     return state
 
-def greeting_or_irrelevant_query_node(state: AgentState) -> AgentState:
-    """
-    This node checks if the user's query is a greeting or irrelevant to law.
-    If it is a greeting, it will return a greeting message.
-    If it is irrelevant, it will return an error message.
-    """
-    if not state['messages']:
-        raise ValueError("State must contain at least one message.")
+# def greeting_node(state: AgentState) -> AgentState:
+#     """
+#     This node checks if the user's query is a greeting
+#     If it is a greeting, it will return a greeting message.
+#     """
+#     if not state['messages']:
+#         raise ValueError("State must contain at least one message.")
 
-    last_message = state['messages'][-1]
+#     last_message = state['messages'][-1]
     
-    if not isinstance(last_message, HumanMessage):
-        raise ValueError("Last message must be a HumanMessage.")
+#     if not isinstance(last_message, HumanMessage):
+#         raise ValueError("Last message must be a HumanMessage.")
 
-    user_query = str(last_message.content).strip().lower()
+#     user_query = str(last_message.content).strip().lower()
 
-    # Check for greetings
-    greetings = ["hi", "hello", "hey", "greetings", "good morning", "good afternoon", "good evening"]
+#     # Check for greetings
+#     greetings = ["hi", "hello", "hey", "greetings", "good morning", "good afternoon", "good evening"]
     
-    if any(greeting in user_query for greeting in greetings):
-        state['final_answer'] = "Hello! How can I assist you with your legal query today?"
-        state['evaluation_result'] = "sufficient"
-        return state
-
-    # If not a greeting, return an error message
-    state['error_message'] = "This query is not related to law."
-    state['evaluation_result'] = "insufficient"
-    return state
+#     if any(greeting in user_query for greeting in greetings):
+#         state['final_answer'] = "Hello! How can I assist you with your legal query today?"
+#         state['evaluation_result'] = "sufficient"
+#         return state
 
 
 
@@ -616,7 +610,7 @@ def answerer_agent_node(state: AgentState) -> AgentState:
         return state
 
     messages = [
-        SystemMessage(content="You are an AI assistant that provides concise answers based on retrieved law texts only. Don't use knowledge outside this. Quote the law sections in your answer. Explain everything in layman's terms."),
+        SystemMessage(content="You are an AI assistant that provides concise answers based on retrieved law texts only. Don't use knowledge outside this. Quote the law sections in your answer. Explain everything in layman's terms. If the information is not enough to answer the query, just say 'I don't have enough information to answer your question."),
         HumanMessage(content=state['final_answer'])
     ]
 
@@ -636,8 +630,8 @@ def answerer_agent_node(state: AgentState) -> AgentState:
 
 
 graph = StateGraph(AgentState)
-graph.add_node("greeting_or_irrelevant_query", greeting_or_irrelevant_query_node)
-graph.add_conditional_edges("greeting_or_irrelevant_query", lambda state: state['evaluation_result'] == "insufficient", {True: "reasoning_agent", False: END})
+# graph.add_node("greeting_or_irrelevant_query", greeting_or_irrelevant_query_node)
+# graph.add_conditional_edges("greeting_or_irrelevant_query", lambda state: state['evaluation_result'] == "sufficient", {False: "reasoning_agent", True: END})
 graph.add_node("reasoning_agent", reasoning_agent_node)
 graph.add_node("execute_tools", execute_tools_node)
 graph.add_conditional_edges("reasoning_agent", reasoning_should_continue, {True: "execute_tools", False: "combine_results_and_evaluate"})
@@ -648,6 +642,13 @@ graph.add_edge("execute_tools", "reasoning_agent")
 graph.set_entry_point("reasoning_agent")
 
 # db_path = os.path.join(os.path.dirname(__file__), "temp_graph_checkpoint.db")
+
+# app = graph.compile()
+# graph_image_path = os.path.join(os.path.dirname(__file__), "graph_structure.png")
+# png_data = app.get_graph().draw_mermaid_png()
+# # Save the graph structure to a file
+# with open(graph_image_path, "wb") as f:
+#     f.write(png_data)
 
 with SqliteSaver.from_conn_string(":memory:") as checkpointer:
     app = graph.compile(checkpointer=checkpointer)

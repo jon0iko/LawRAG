@@ -2,6 +2,9 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using LangGraph. It provides a chat API that can be integrated with a React-based chatbot interface.
 
+# The graph Structure:
+![LangGraph RAG Pipeline Structure](./graph_structure.png)
+
 ## Project Structure
 
 ```
@@ -62,9 +65,6 @@ python-langgraph-rag-api
     }
     ```
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
 ## License
 
