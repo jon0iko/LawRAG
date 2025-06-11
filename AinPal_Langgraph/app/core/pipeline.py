@@ -544,6 +544,12 @@ def combine_results_and_evaluate_node(state: AgentState) -> AgentState:
         state['evaluation_result'] = "insufficient"
         state['final_answer'] = "No relevant laws found."
         return state
+    
+    last_ai_message = None
+    for msg in reversed(state['messages']):
+        if isinstance(msg, AIMessage) and not getattr(msg, 'tool_calls', None):
+            last_ai_message = msg
+            break
 
     # Combine retrieved texts into a final answer
     if state['cypher_query_results']:
@@ -551,7 +557,12 @@ def combine_results_and_evaluate_node(state: AgentState) -> AgentState:
         combined_text = "\n".join(state['retrieved_law_texts'] + cypher_results_texts)
     else:
         combined_text = "\n".join(state['retrieved_law_texts'])
-    
+
+    if last_ai_message:
+        combined_text = f"Reasoning Agent's Analysis:\n{last_ai_message.content}\n\nRetrieved Law Texts:\n{combined_text}"
+
+    print(f"Combined Text for Final Answer:\n{combined_text}")
+
     # Set final answer and evaluation result
     state['final_answer'] = combined_text
     state['evaluation_result'] = "sufficient"
@@ -638,145 +649,177 @@ graph.set_entry_point("reasoning_agent")
 
 # db_path = os.path.join(os.path.dirname(__file__), "temp_graph_checkpoint.db")
 
-# with SqliteSaver.from_conn_string(":memory:") as checkpointer:
-#     app = graph.compile(checkpointer=checkpointer)
-#     thread = {"configurable": {"thread_id": "4"}}
-#     query = [HumanMessage(content=query)]
+with SqliteSaver.from_conn_string(":memory:") as checkpointer:
+    app = graph.compile(checkpointer=checkpointer)
+    thread = {"configurable": {"thread_id": "5"}}
+    conversation_history = []
 
-#     print("\n=== Starting Graph Execution ===\n")
+    while True:
+        # Get user input
+        query = input("\nEnter your query (or type 'exit' to quit): ").strip()
+        if query.lower() in ['exit', 'quit', 'bye', 'goodbye']:
+            print("Exiting")
+            break
+        new_message = HumanMessage(content=query)
+        full_messages = conversation_history + [new_message]
 
-#     try:
-#         for event in app.stream({"messages": query}, thread):
-#             # Print the event type/name if available
-#             if hasattr(event, 'get') and callable(event.get):
-#                 print(f"\n--- Step: {event.get('name', 'Unknown')} ---")
-#             else:
-#                 print("\n--- New Event ---")
-            
-#             # Print the event structure to understand what's available
-#             print(f"Event keys: {list(event.keys()) if hasattr(event, 'keys') else 'No keys'}")
-            
-#             # Safely process the event
-#             if isinstance(event, dict):
-#                 for k, v in event.items():
-#                     if k == "state" or k == "name":
-#                         continue
-                    
-#                     print(f"\n--- Processing: {k} ---")
-                    
-#                     if isinstance(v, dict) and "messages" in v:
-#                         print("\nMessages:")
-#                         for msg in v["messages"]:
-#                             if isinstance(msg, HumanMessage):
-#                                 print(f"Human: {msg.content}")
-#                             elif isinstance(msg, AIMessage):
-#                                 print(f"AI: {msg.content}")
-#                                 if hasattr(msg, "tool_calls") and msg.tool_calls:
-#                                     print(f"  Tool Calls: {len(msg.tool_calls)}")
-#                                     for tool_call in msg.tool_calls:
-#                                         print(f"    - {tool_call['name']}: {tool_call['args']}")
-#                             elif isinstance(msg, SystemMessage):
-#                                 print(f"System: {msg.content[:50]}...")
-#                             elif isinstance(msg, ToolMessage):
-#                                 print(f"Tool: {msg.content[:100]}...")
-#                             else:
-#                                 print(f"Other ({type(msg).__name__}): {msg}")
-                    
-#                     if isinstance(v, dict):
-#                         if "retrieved_law_texts" in v and v["retrieved_law_texts"]:
-#                             print(f"\nRetrieved {len(v['retrieved_law_texts'])} law texts")
-                            
-#                         if "final_answer" in v and v["final_answer"]:
-#                             print(f"\nFinal Answer available: {len(v['final_answer'])} chars")
-                            
-#                         if "error_message" in v and v["error_message"]:
-#                             print(f"\nError: {v['error_message']}")
-#             else:
-#                 print(f"Event is not a dictionary: {type(event)}")
-#     except Exception as e:
-#         print(f"\n=== Error during execution: {e} ===\n")
-#     finally:
-#         print("\n=== Graph Execution Completed ===\n")
-#         print(f"\n=== Token Usage Statistics ===")
-#         print(f"Input tokens: {input_tokens}")
-#         print(f"Output tokens: {output_tokens}")
-#         print(f"Total tokens: {input_tokens + output_tokens}")
-#         print("===============================")
+        print("\n=== Starting Graph Execution ===\n")
+        final_state = None 
 
+        try:
+            for event in app.stream({"messages": full_messages}, thread):
+                if isinstance(event, dict) and "state" in event:
+                    final_state = event["state"]
 
-def run_conversation():
-    """Run a multi-turn conversation with the user."""
-    with SqliteSaver.from_conn_string(":memory:") as checkpointer:
-        app = graph.compile(checkpointer=checkpointer)
-        thread = {"configurable": {"thread_id": "4"}}
-        
-        # Initialize conversation history
-        conversation_history = []
-        
-        print("\n=== Starting AinPal Conversation ===")
-        print("Type 'exit' or 'quit' to end the conversation\n")
-        
-        while True:
-            # Get user input
-            user_query = input("\nYou: ").strip()
-            
-            # Check for exit command
-            if user_query.lower() in ['exit', 'quit', 'bye', 'goodbye']:
-                print("\nAI: Thank you for using AinPal. Goodbye!")
-                break
-            
-            # Skip empty queries
-            if not user_query:
-                print("Please enter a query.")
-                continue
-            
-            # Create a new human message
-            human_message = HumanMessage(content=user_query)
-            
-            # Add to conversation history
-            current_messages = conversation_history + [human_message]
-            
-            print("\n=== Processing Query... ===\n")
-            
-            try:
-                # Reset token counters for this turn
-                global input_tokens, output_tokens
-                input_tokens = 0
-                output_tokens = 0
+                # Print the event type/name if available
+                if hasattr(event, 'get') and callable(event.get):
+                    print(f"\n--- Step: {event.get('name', 'Unknown')} ---")
+                else:
+                    print("\n--- New Event ---")
                 
-                # Get the final state from the graph execution
-                final_state = None
+                # Print the event structure to understand what's available
+                print(f"Event keys: {list(event.keys()) if hasattr(event, 'keys') else 'No keys'}")
                 
-                for event in app.stream({"messages": current_messages}, thread):
-                    if isinstance(event, dict) and "state" in event:
-                        final_state = event["state"]
-                
-                # Extract the AI's response from the final state
-                if final_state and "messages" in final_state and final_state["messages"]:
-                    ai_messages = [msg for msg in final_state["messages"] if isinstance(msg, AIMessage)]
-                    
-                    if ai_messages:
-                        # Get the last AI message
-                        ai_response = ai_messages[-1]
-                        print(f"\nAI: {ai_response.content}")
+                # Safely process the event
+                if isinstance(event, dict):
+                    for k, v in event.items():
+                        if k == "state" or k == "name":
+                            continue
                         
-                        # Add to conversation history
-                        conversation_history.append(human_message)
-                        conversation_history.append(ai_response)
+                        print(f"\n--- Processing: {k} ---")
                         
-                        # Keep conversation history to a reasonable size
-                        if len(conversation_history) > 10:
-                            # Keep only the last 5 turns (10 messages)
-                            conversation_history = conversation_history[-10:]
-                    else:
-                        print("\nAI: I couldn't generate a response. Please try again.")                    
+                        if isinstance(v, dict) and "messages" in v:
+                            print("\nMessages:")
+                            for msg in v["messages"]:
+                                if isinstance(msg, HumanMessage):
+                                    print(f"Human: {msg.content}")
+                                elif isinstance(msg, AIMessage):
+                                    print(f"AI: {msg.content}")
+                                    if hasattr(msg, "tool_calls") and msg.tool_calls:
+                                        print(f"  Tool Calls: {len(msg.tool_calls)}")
+                                        for tool_call in msg.tool_calls:
+                                            print(f"    - {tool_call['name']}: {tool_call['args']}")
+                                elif isinstance(msg, SystemMessage):
+                                    print(f"System: {msg.content[:50]}...")
+                                elif isinstance(msg, ToolMessage):
+                                    print(f"Tool: {msg.content[:100]}...")
+                                else:
+                                    print(f"Other ({type(msg).__name__}): {msg}")
+                        
+                        if isinstance(v, dict):
+                            if "retrieved_law_texts" in v and v["retrieved_law_texts"]:
+                                print(f"\nRetrieved {len(v['retrieved_law_texts'])} law texts")
+                                
+                            if "final_answer" in v and v["final_answer"]:
+                                print(f"\nFinal Answer available: {len(v['final_answer'])} chars")
+                                
+                            if "error_message" in v and v["error_message"]:
+                                print(f"\nError: {v['error_message']}")
+                else:
+                    print(f"Event is not a dictionary: {type(event)}")
+        except Exception as e:
+            print(f"\n=== Error during execution: {e} ===\n")
+        finally:
+            if final_state and "messages" in final_state:
+                conversation_history.append(new_message)
+                ai_messages = [msg for msg in final_state["messages"] if isinstance(msg, AIMessage)]
+                if ai_messages:
+                    conversation_history.extend(ai_messages)
                 
-                # Print token usage
-                print(f"\n[Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}]")
+                # Optional: Keep history to a reasonable size (last 10 turns)
+                if len(conversation_history) > 20:
+                    conversation_history = conversation_history[-20:]
                 
-            except Exception as e:
-                print(f"\n=== Error during execution: {e} ===")
-                print("Let's continue with a new query.")
+                # Display current conversation state
+                # print("\n=== Current Conversation History ===")
+                # for i, msg in enumerate(conversation_history[-6:]):  # Show last 3 turns
+                #     if isinstance(msg, HumanMessage):
+                #         print(f"Human: {msg.content}")
+                #     elif isinstance(msg, AIMessage):
+                #         print(f"AI: {msg.content[:150]}..." if len(msg.content) > 150 else f"AI: {msg.content}")
+                # print("===============================")
 
-if __name__ == "__main__":
-    run_conversation()
+            print("\n=== Graph Execution Completed ===\n")
+            print(f"\n=== Token Usage Statistics ===")
+            print(f"Input tokens: {input_tokens}")
+            print(f"Output tokens: {output_tokens}")
+            print(f"Total tokens: {input_tokens + output_tokens}")
+            print("===============================")
+
+
+# def run_conversation():
+#     """Run a multi-turn conversation with the user."""
+#     with SqliteSaver.from_conn_string(":memory:") as checkpointer:
+#         app = graph.compile(checkpointer=checkpointer)
+#         thread = {"configurable": {"thread_id": "4"}}
+        
+#         # Initialize conversation history
+#         conversation_history = []
+        
+#         print("\n=== Starting AinPal Conversation ===")
+#         print("Type 'exit' or 'quit' to end the conversation\n")
+        
+#         while True:
+#             # Get user input
+#             user_query = input("\nYou: ").strip()
+            
+#             # Check for exit command
+#             if user_query.lower() in ['exit', 'quit', 'bye', 'goodbye']:
+#                 print("\nAI: Thank you for using AinPal. Goodbye!")
+#                 break
+            
+#             # Skip empty queries
+#             if not user_query:
+#                 print("Please enter a query.")
+#                 continue
+            
+#             # Create a new human message
+#             human_message = HumanMessage(content=user_query)
+            
+#             # Add to conversation history
+#             current_messages = conversation_history + [human_message]
+            
+#             print("\n=== Processing Query... ===\n")
+            
+#             try:
+#                 # Reset token counters for this turn
+#                 global input_tokens, output_tokens
+#                 input_tokens = 0
+#                 output_tokens = 0
+                
+#                 # Get the final state from the graph execution
+#                 final_state = None
+                
+#                 for event in app.stream({"messages": current_messages}, thread):
+#                     if isinstance(event, dict) and "state" in event:
+#                         final_state = event["state"]
+                
+#                 # Extract the AI's response from the final state
+#                 if final_state and "messages" in final_state and final_state["messages"]:
+#                     ai_messages = [msg for msg in final_state["messages"] if isinstance(msg, AIMessage)]
+                    
+#                     if ai_messages:
+#                         # Get the last AI message
+#                         ai_response = ai_messages[-1]
+#                         print(f"\nAI: {ai_response.content}")
+                        
+#                         # Add to conversation history
+#                         conversation_history.append(human_message)
+#                         conversation_history.append(ai_response)
+                        
+#                         # Keep conversation history to a reasonable size
+#                         if len(conversation_history) > 10:
+#                             # Keep only the last 5 turns (10 messages)
+#                             conversation_history = conversation_history[-10:]
+#                     else:
+#                         print("\nAI: I couldn't generate a response. Please try again.")                    
+                
+#                 # Print token usage
+#                 print(f"\n[Token usage - Input: {input_tokens}, Output: {output_tokens}, Total: {input_tokens + output_tokens}]")
+                
+#             except Exception as e:
+#                 print(f"\n=== Error during execution: {e} ===")
+#                 print("Let's continue with a new query.")
+
+# if __name__ == "__main__":
+#     run_conversation()
