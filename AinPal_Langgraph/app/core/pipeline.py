@@ -417,16 +417,16 @@ def execute_tools_node(state: AgentState) -> AgentState:
     if tool_calls_count >= MAX_TOOL_CALLS:
         print(f"Reached maximum number of tool calls ({MAX_TOOL_CALLS}). Moving to evaluation.")
         
-        # Add a message to inform about the limit
-        forced_stop_message = ToolMessage(
-            content=f"Maximum number of tool calls ({MAX_TOOL_CALLS}) reached. Proceeding to final answer.",
-            tool_call_id="max_calls_reached",
-            name="system"
+        forced_stop_message = f"Maximum number of tool calls ({MAX_TOOL_CALLS}) reached. Proceeding with partial results."
+        
+        # AIMessage instead of a ToolMessage
+        max_calls_message = AIMessage(
+            content=forced_stop_message
         )
         
         # Force the next step to be evaluation by adding a special flag
         return {
-            'messages': [forced_stop_message],
+            'messages': [max_calls_message],
             'retrieved_law_texts': state['retrieved_law_texts'],
             'cypher_query_results': state['cypher_query_results'],
             'error_message': None,
@@ -509,7 +509,7 @@ def execute_tools_node(state: AgentState) -> AgentState:
         'evaluation_result': state['evaluation_result'],
         'reasoning_retries_count': state['reasoning_retries_count'],
         'final_answer': state['final_answer'],
-        'tool_calls_count': tool_calls_count  # Store the updated count
+        'tool_calls_count': tool_calls_count  
     }
     
 
@@ -610,7 +610,13 @@ def answerer_agent_node(state: AgentState) -> AgentState:
         return state
 
     messages = [
-        SystemMessage(content="You are an AI assistant that provides concise answers based on retrieved law texts only. Don't use knowledge outside this. Quote the law sections in your answer. Explain everything in layman's terms. If the information is not enough to answer the query, just say 'I don't have enough information to answer your question."),
+        SystemMessage(content=
+        """
+        You are an AI assistant that provides concise answers based on retrieved law texts only. Don't use knowledge outside this. Quote the law sections in your answer. Explain everything in layman's terms.
+        If the information is not enough to answer the query, just say 'I don't have enough information to answer your question.
+        If the information is enough to partially answer the query, provide a concise answer based on the retrieved law texts. But explain that what the user asked can not be answered fully due to the necessary information not being in the database.
+        If the query is not related to law, say "This query is not related to law."         
+        """),
         HumanMessage(content=state['final_answer'])
     ]
 
@@ -652,7 +658,7 @@ graph.set_entry_point("reasoning_agent")
 
 with SqliteSaver.from_conn_string(":memory:") as checkpointer:
     app = graph.compile(checkpointer=checkpointer)
-    thread = {"configurable": {"thread_id": "5"}}
+    thread = {"configurable": {"thread_id": "6"}}
     conversation_history = []
 
     while True:
